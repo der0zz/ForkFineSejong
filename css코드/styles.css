@@ -1,0 +1,54 @@
+.app-section {
+  padding: 40px;
+}
+
+/* 컨테이너: 세로 flex 레이아웃 */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: stretch;
+}
+
+/* 헤딩 섹션 */
+.app-heading {
+  margin-bottom: 20px;
+}
+.app-heading h2 {
+  margin: 0;
+}
+.app-heading p {
+  margin: 0;
+  color: #666;
+}
+
+/* 그리드: 3열 배치 */
+.app-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+/* 카드 스타일 */
+.card {
+  display: flex;
+  border: 1px solid #ccc;
+  padding: 8px;
+  align-items: center;
+}
+.card-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.card-content {
+  margin-left: 8px;
+}
+.card-title {
+  margin: 8px 0 4px;
+}
+.card-text {
+  margin: 0;
+  line-height: 1.5;
+}
