@@ -1,54 +1,173 @@
-.app-section {
-  padding: 40px;
+/* ▷ 전체 앱 ▷ */
+.app {
+  font-family: sans-serif;
+  color: #333;
+  background: #f7f7f7;
+  min-height: 100vh;
 }
 
-/* 컨테이너: 세로 flex 레이아웃 */
-.app-container {
+/* ===== 헤더 ===== */
+.app-header {
+  display: flex;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  background: #57B4BA;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Left 영역 */
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 30rem;
+}
+.logo {
+  width: 24px;
+  height: 24px;
+}
+.brand {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/* Center 영역 */
+.header-center {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.search-box input {
+  padding: 0.5rem 1rem;
+  border: px solid #ccc;
+  border-radius: 4px;
+}
+.search-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+.search-icon {
+  width: 1.25rem;
+  height: 1.25rem;
+  color: #333;
+}
+
+/* Right 영역 */
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+.header-nav a {
+  text-decoration: none;
+  color: #555;
+}
+.header-nav a:hover {
+  text-decoration: underline;
+}
+.menu-btn {
+  background: #000;
+  color: #fff;
+  border: none;
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* ===== 필터 섹션 ===== */
+.filter-section {
+  padding: 1rem 2rem;
+}
+.filter-section h2 {
+  margin: 0 0 0.5rem;
+}
+.filters {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+.filter-btn {
   display: flex;
   flex-direction: column;
-  gap: 20px;
-  align-items: stretch;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 1rem 1.5rem;
+  border: 1px solid #ccc;
+  background: #fff;
+  border-radius: 1rem;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+.filter-btn:hover {
+  background: #f0f0f0;
+}
+.filter-btn.active {
+  background-color: #f0f0f0; /* 원하시는 회색으로 조정 */
+  color: #000; /* 글자는 검은색 유지 */
+  border-color: #ccc; /* 기본 테두리 색(원래대로) */
+}
+.filter-icon {
+  width: 3rem;
+  height: 3rem;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.filter-label {
+  font-size: 1rem;
 }
 
-/* 헤딩 섹션 */
-.app-heading {
-  margin-bottom: 20px;
+/* ===== 카드 그리드 ===== */
+.grid-section {
+  padding: 1rem 2rem;
 }
-.app-heading h2 {
-  margin: 0;
-}
-.app-heading p {
-  margin: 0;
-  color: #666;
-}
-
-/* 그리드: 3열 배치 */
-.app-grid {
+.card-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
+  gap: 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
 }
-
-/* 카드 스타일 */
 .card {
   display: flex;
-  border: 1px solid #ccc;
-  padding: 8px;
-  align-items: center;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  text-align: center;
+  transition: box-shadow 0.2s;
+}
+.card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 .card-img {
-  width: 100px;
-  height: 100px;
+  width: 100%;
+  height: 6rem;
   object-fit: cover;
-  flex-shrink: 0;
-}
-.card-content {
-  margin-left: 8px;
+  border-radius: 0.5rem 0.5rem 0 0;
+  margin-bottom: 0.5rem;
 }
 .card-title {
-  margin: 8px 0 4px;
+  margin: 0.5rem 0 0.25rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
 }
-.card-text {
+.card-rating {
+  color: #f5a623;
+  font-size: 0.875rem;
+}
+.card-desc {
   margin: 0;
-  line-height: 1.5;
+  color: #666;
+  font-size: 0.875rem;
 }
