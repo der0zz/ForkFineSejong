@@ -1,0 +1,13 @@
+from sqlalchemy import create_engine
+import pandas as pd
+
+# SQLAlchemy 엔진 생성
+engine = create_engine("mysql+pymysql://root:5242@localhost/restaurant_db")
+
+# 테이블 목록
+tables = ['restaurant', 'menu', 'review']
+
+# 각 테이블을 CSV로 저장
+for table in tables:
+    df = pd.read_sql(f"SELECT * FROM {table}", engine)
+    df.to_csv(f"{table}.csv", index=False, encoding='utf-8-sig')

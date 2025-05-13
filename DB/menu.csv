@@ -1,0 +1,603 @@
+﻿id,restaurant_id,name,price,description,image_url
+1,121,조개구이(미니),29900.0,,
+2,121,조개찜(미니),25900.0,,
+3,121,조개전골(미니),25900.0,,
+4,121,비단가리비찜,25900.0,,
+5,121,포구전골,25900.0,,
+6,121,광어막회,28900.0,,
+7,121,광어전복 회무침,22900.0,,
+8,121,해산물세트,35900.0,,
+9,121,참꼬막찜,12900.0,,
+10,121,모듬튀김,17900.0,,
+11,121,새우튀김,15000.0,,
+12,121,오돌뼈주먹밥,17900.0,,
+13,121,쭈새전,17900.0,,
+14,121,새우전,9900.0,,
+15,121,홍가리비찜,25900.0,,
+16,122,오리탕 (1마리),61000.0,,
+17,122,오리탕 (반마리),39000.0,,
+18,122,생로스,61000.0,,
+19,122,주물럭,61000.0,,
+20,123,돈까스카레,,,
+21,124,족발（국내산*앞다리*만 사용）,29000.0,사이즈 선택 ／ （서비스）차돌된장국／쟁반국수（중）／보쌈무채지／피클／야채／오이／당근／편고추／편마늘／쌈장／새우젓／리뷰이벤트,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FE6D65695D68A42AABA6354F17312C5E7
+22,124,보쌈,27000.0,사이즈 선택 ／ （서비스）차돌된장국／쟁반국수（중）／보쌈김치 ／ 피클／야채／오이／당근／편고추／편마늘／쌈장／새우젓／리뷰이벤트,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F641095142C7042418CBF4B6833EA00BC
+23,124,냉채족발,37000.0,（서비스）차돌된장국／쟁반국수（중）／보쌈무채지／피클／야채／오이／당근／편고추／편마늘／쌈장／새우젓／리뷰이벤트,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F35A9D249E9224B1B9B0D9EF1B635DCEA
+24,124,불족발（촉촉하고매운타입）,37000.0,추가선택 가능 ／ （서비스）차돌된장국／쟁반국수（중）／／보쌈김치／피클／야채／오이／당근／편고추／편마늘／쌈장／새우젓／리뷰이벤트,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4B484825C1674C14BE108E39F99FDD46
+25,124,2종세트（족발or보쌈or냉채족발or불족발or치즈추가 불족발or홍어 중 택 2）,39000.0,사이즈 선택 ／ （서비스）차돌된장국／쟁반국수（중）／／보쌈무채지／피클／야채／오이／당근／편고추／편마늘／쌈장／새우젓／리뷰이벤트,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F6E40F2EDF6F04D09801617C5BD515B4C
+26,124,3종세트（족발or보쌈or냉채족발or불족발or치즈추가 불족발or홍어 중 택 3）,62000.0,중복선택 불가 ／ （서비스）차돌된장국／쟁반국수（중）／／보쌈무채지／피클／야채／오이／당근／편고추／편마늘／쌈장／새우젓／리뷰이벤트,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F9235D938AD154B10BF405B0E33AB16CB
+27,124,어묵탕（부산삼진어묵）,25000.0,조리 후 배달／공기밥 별도,
+28,124,홍어,35000.0,（서비스）차돌된장국／／묵은지／오이／당근／편고추／편마늘／쌈장／초장／리뷰이벤트,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FAAA985A117FA44CB932E569F14F0F9BE
+29,124,참소라초무침,29000.0,추가선택 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F52879F0DE9604BD6A501DA541B17CF73
+30,124,쟁반국수,12000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F7BEF5BCC3C3F4E73B4B5FBC979568588
+31,124,김치전,12000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FAA694AF50DE543F1A1874E4C02C50C75
+32,124,부추전,12000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FD16B1BC707E54D4B85670626D9F7E009
+33,124,보쌈김치,4000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F0DF7CBE8459346F5911E3ADFFE9D727E
+34,124,주먹밥,3000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F62276A65DB6E4482B330E4F087812794
+35,124,공기밥,1000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F5FC3B827D6AC48A9BDFB75A02A54BBD1
+36,124,쌈야채,2000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FF10D95714A4E4C2BBB737ABC7117A02C
+37,124,코카콜라 500mL,2000.0,"언제 어디서나 이 맛, 이 느낌! 마시는 순간 기분 좋은 상쾌함과 보기만 해도 기분 좋아지는 빨간색의 코카-콜라",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4FB25B42F8BE4AF1839896C8E3968FE5
+38,124,칠성사이다 500mL,2000.0,"일상에 지쳐 기분 전환이 필요할 때, 시원한 하루를 만드는 청량감 칠성사이다",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FF534234BDC28412F98789627A8393CDA
+39,124,쿨피스 900mL,3000.0,"마시는 유산균, 유산균이 살아있는 쿨피스",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F07F1C4A99F604ECC95B7AF2990D7C467
+40,124,처음처럼,4500.0,대관령 기슭 암반수로 만든 부드러운 소주,
+41,124,참이슬 후레쉬,4500.0,대나무 숯으로 4번 걸러 더 깨끗해진 참이슬 fresh,
+42,124,진로,4500.0,"진로 이즈 백! 소주의 원조, 진로가 돌아왔다",
+43,124,청하,5000.0,맑고 깨끗한 청주,
+44,124,테라,4500.0,"시대의 돌풍을 일으킬 청정라거, TERRA 청정맥아 100%, 리얼탄산 100% 테라는 세계 공기질 부문 1위 호주에서 자란 청정맥아와 오직 발효공정에서 나오는 리얼탄산을 100% 사용하여 거품은 조밀하고 탄산은 오래 지속됩니다. 국내 레귤러 라거 최초 Green Bottle을 적용하였고, 토네이도 패턴을 통해 눈으로 보는 청량감을 구현하였습니다.",
+45,124,카스,4500.0,올 뉴 카스 프레시는 카스만의 콜드브루 공법을 통해 맥주의 상쾌함과 깔끔한 맛을 한층 더 극대화하였습니다.,
+46,124,클라우드,5000.0,100% 발효원액으로 만들어 깊고 풍부한 리얼맥주,
+47,124,장수막걸리,4000.0,"찹쌀,멥쌀,보리 밀가루 등을 쪄서 누룩과 물을 섞어 발효시킨 한국 고유의 술",
+48,125,숙성 삼겹살 한판 (600g),25900.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F0BEBC7F8CC9C4EEAB330B27A6B38FC68
+49,125,숙성 목살 한판 (600g),25900.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F872818606B5B4E5191631FAECDBCE935
+50,125,숙성 삼겹살 반판 (300g),15900.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F65FCEB5BD9F84CFFA93A63A8AC7773D3
+51,125,숙성 목살 반판 (300g),15900.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F11DF3CA4686B4A2AA6A7314E1F78ECDF
+52,125,돼지갈비 (250~300g),11900.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F9019C3A7762143959894A70E7904E1B6
+53,125,소갈비살 (150g),13900.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F3FB34AEC00C74677AE482C78FAC26406
+54,126,물냉면,10000.0,,
+55,126,비빔냉면,10000.0,,
+56,126,코다리냉면,11000.0,,
+57,126,떡만두국,9000.0,,
+58,126,대왕갈비탕,15000.0,,
+59,126,서울옛날불고기,16000.0,,
+60,126,냉면사리,4000.0,,
+61,126,수제만두,6000.0,,
+62,126,튀김만두,7000.0,,
+63,126,제주흑돼지 냉제육,12000.0,,
+64,127,생소곱창 (1인),30000.0,,
+65,127,양구이 (1인),30000.0,,
+66,127,막창 (1인),30000.0,,
+67,127,대창 (1인),30000.0,,
+68,127,모듬 (1인분),30000.0,,
+69,127,염통(추가1인),15000.0,,
+70,128,아구찜（소）,42000.0,2~3인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FDCD6AD70D2A54227A1471C07E912E207
+71,128,해물찜（소）,57000.0,2~3인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4E73C98C7D1B4C60A5E1EDDC078AAC6D
+72,128,아구수육（소）,42000.0,2~3인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F55746BE873474147B01047FD57405730
+73,128,해물탕（소）（비조리）,57000.0,2~3인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F02F934C7A33F45789CAD7CA040E5E401
+74,128,아구매운탕（소）（비조리）,42000.0,2~3인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F408EEAD72E984E09B21E8B692B385FE5
+75,128,아구찜（중）,60000.0,3~4인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FAA60D653E44A4922A9FACEEC2666F857
+76,128,아구찜（대）,70000.0,4~5인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FC93CEAB901724845988483E0661A1877
+77,128,해물찜（중）,69000.0,3~4인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F142DB55B7B6D454A8DE9ED20D71A7350
+78,128,해물찜（대）,79000.0,4~5인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F2537E19B214B44F4ABF32B0D47CD87BB
+79,128,아구찜1인분＋공기밥1개,27000.0,혼자 아구찜을 찾으시는 분들을 위해 배달전용으로 만든 1인아구찜!,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F16CDD838BCD94E3CB74246D83337F7A1
+80,128,아구수육（중）,60000.0,3~4인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F5001994CDDA9455E87D270ED2E214662
+81,128,아구수육（대）,70000.0,4~5인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F839539ACE3514B33A2F153849F9EB424
+82,128,해물탕（중） （비조리）,69000.0,3~4인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FA049AACA61F246178570D6E4FE2F605C
+83,128,해물탕（대） （비조리）,79000.0,4~5인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FC0CD6BC241DB4015B6A41A6B508C4BFD
+84,128,아구매운탕（중） （비조리）,60000.0,3~4인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F08594FDA1058474084D95B44A501CEF9
+85,128,아구매운탕（대） （비조리）,70000.0,4~5인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FE24C38B86DDC4EE4B64A70269A4500D4
+86,128,아구탕지리（소）（비조리）,42000.0,2~3인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F445514295E444B268BAAF08DF3FAF594
+87,128,아구탕지리（중） （비조리）,60000.0,3~4인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F0F766A0F00B442739771272573E3F803
+88,128,아구탕지리（대） （비조리）,70000.0,4~5인까지 가능합니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F6D7EEA6E777448DBB8BE0186379CB987
+89,128,공기밥,1000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F96D37247D22345D885ABFE4947819AE7
+90,128,볶음밥,3000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F10B308209EDE4547938B5D661437DD17
+91,128,콜라(코카콜라)355ml,2000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FACF8ADE9606E400AB44E80855FCC66CB
+92,128,사이다(칠성)355ml,2000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F2EAC0A41E971477AB6C7ECABBF19E635
+93,128,제로콜라(펩시)355ml,2000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FDADFD67CC8D04A629EE89EF1D92F25CD
+94,129,능이 유황오리 백숙 한마리,80000.0,찰밥 제공 （ 전복이나 산낙지를 추가해서 드시면 더 맛있어요~ ^^）,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FCAFE419C9E1A41DA9E42F4F662339247
+95,129,능이 토종 닭백숙,80000.0,찰밥 제공 （ 전복이나 산낙지를 추가해서 드시면 더 맛있어요~^^）,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F431CF532C87347EE98C52AE74C2D7006
+96,129,능이 명품 삼계탕,19000.0,삼계 닭은 다 익어서 갑니다. 바로식과 보관식 2개 중 선택해서 주문해 주세요~~,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F2B40B74C6B6A4ED18DD41BE0CCD48859
+97,129,닭계장 1人,11000.0,공기밥 제공,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FB03F3CC9385A4AF08B7D2FECFE6752F6
+98,129,황제 해천탕,160000.0,찰쌀밥 제공,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FF4EACC19C2754DEE8B151D99B6759441
+99,129,찰쌀밥,3000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F1C846D89C9CA4AFA8AA6096214B78190
+100,129,능이 전복 삼계탕,24000.0,싱싱한 살아있는 전복을 바로 넣어 조리해서 제공하는 보양식 삼계탕,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F586EC423B0C0481ABE17B98B44667A91
+101,129,능이 유황오리 백숙 반마리,50000.0,"찰밥 제공 （ 산낙지, 전복 사리 추가 추천합니다~）",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FC1CF93202FE249A8A6EF64BD90E69ACE
+102,129,황제 해천탕 반마리 （오리만）,99000.0,찰쌀밥 제공,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F1836DA7F2F1047D687AD65862861549C
+103,129,문어비빔밥,15000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4E6F381D311F45D19FA4BE246F3926A8
+104,129,능이 산낙지 삼계탕,35000.0,살아있는 산낙지를 바로 잡아서 같이 끓여 드립니다.,
+105,129,공기밥,1000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F7A83F0504DAF45538815B55C0A96C55D
+106,129,사이다（350mL）,2000.0,"몸속부터 깨워줄 시원함이 필요할 때, 분위기를 상쾌하게 전환하는 사이다",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F062211D17359452BA4882896C71A0338
+107,129,코카콜라 （350mL）,2000.0,콜라,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F07BEC4A21EB247209234EE90F844C7BF
+108,129,직접 담근 김치,2000.0,기와집 매장에서 100% 재료로 직접 담근 김치입니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F3A3D285B454E41B78C5BFBA1EBBFF786
+109,129,직접 담근 깍두기,2000.0,기와집 매장에서 100% 재료로 담근 깍두기,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4D809726F25C4CC9B4E75B7C84ABBA95
+110,129,직접 담근 무절임,2000.0,100% 국내산 재료로 만든 기와집 무절임.새콤달콤해서 여성분들에게 인기만점입니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F1BC9F1F130A34645A4EFEEB75C8A36C9
+111,129,직접 만든 마늘장아찌,3000.0,기아집에서 직접 만든 마늘장아찌. 삼계탕이랑 함께 먹으면 금상첨화,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FF28F6ECD0BCD4352BB02544C8A4365B9
+112,129,능이버섯 추가,25000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F5D2D495E289149FF9D054D9A1AA75B95
+113,129,통문어사리,40000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F5F13C378896A4C399BDA5FDE30E80A56
+114,129,산낙지（직접 끓여드실 수 있을 시 ）,18000.0,수족관에서 갓 잡아서 보내드리는 살아있는 산낙지,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F95C22F240C084881ABF6B0068F0582BB
+115,129,활전복（ 직접 끓여 드실 수 있을 시 ）,6000.0,수족관에서 갓 잡아서 살아있는 활전복,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FA2ABF5F4B2774F6A9F527B01E341FAC5
+116,129,칼국수,4000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F676D41F0580F4908B02C037CE2B4033B
+117,129,부추,2000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FCCED0A3C3FE349BABE7D8F5F5600B85C
+118,130,장어정식 (점심특선),21000.0,특반마리+장어탕,
+119,130,특대한마리 (활장어500g),42000.0,,
+120,130,특대반마리,21000.0,,
+121,130,웰빙장어탕,10000.0,,
+122,130,장어덮밥 (점심특선),15000.0,,
+123,131,무한리필(평일점심),12900.0,,
+124,131,무한리필(평일저녁),13900.0,,
+125,131,"무한리필(주말,공휴일)",14500.0,,
+126,131,무한리필 초등학생(평일점심),9900.0,,
+127,131,"무한리필 초등학생(주말,공휴일)",10500.0,,
+128,131,미취학(24개월~),5900.0,,
+129,132,이이요특선초밥,23000.0,,
+130,132,이이요초밥,16000.0,,
+131,132,광어초밥,18000.0,,
+132,132,묵은지광어초밥,18000.0,,
+133,132,연어초밥,17000.0,,
+134,132,광어+연어덮밥,17000.0,,
+135,132,소고기초밥,14000.0,,
+136,132,삶은새우초밥,12000.0,,
+137,132,연어마끼,19500.0,,
+138,132,회덮밥,15000.0,,
+139,132,낫또회덮밥,16500.0,,
+140,132,새우장밥,13500.0,,
+141,132,연어덮밥,16000.0,,
+142,132,간장새우연어밥,17000.0,,
+143,132,홍새우연어덮밥,17000.0,,
+144,132,광어지느러미연어밥,18000.0,,
+145,132,도미연어덮밥,18000.0,,
+146,132,이이요마끼,12000.0,,
+147,133,A호야 12pcs,17000.0,"참치2,선어2,연어2,찐쭈꾸미2,찐새우2,랜덤2 [[일시적구성 변경됩니다]]",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FC0C0AE121F94400B8BE5772949C399CA
+148,133,（BEST）B특호야12pcs,21000.0,"참치2,선어3,연어3,새우2,랜덤2 [[일시적구성 변경됩니다]]",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4B400953C1A3496CBAA935AB51EDFA44
+149,133,로얄스시12pcs,36000.0,"참다랑어 2, 메까도로2, 참돔2 or 장어2, 두꺼운연어뱃살2,가리비관자1,우니1,소고기1,아마애비1 (참돔,장어 선택아닙니다. 참돔 or 장어 랜덤제공입니다)",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FC2003E3FD6EE4D89B386F8506139D3D2
+150,133,참다랑어,54000.0,"턱살（가마도로）＋중뱃살（쥬도로）＋등살（새도로）＋속살（가마뼈속）여서 즉시 드셔야 하며, 시간이 지나면 갈변 될수 있습니다.",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F5808A227E3CC46488819654CAF093973
+151,133,대뱃살,55000.0,"오도로 한마리에7%로나오는 기름진특수부위 귀한 부위여서 즉시 드셔야 하며, 시간이 지나면 갈변 될수 있습니다.",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FE2A69DD3A75D404D8593DF8AB42B4D32
+152,133,C연어（양파소스）12pcs,26000.0,신선한 사과와 양파의 비율을 최적화하여 직접 만든 저희 가게만의 비법소스,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F875A3D0E129C4CFC8A0F3B713728B825
+153,133,모둠회（7종）,49000.0,"（아마애비,우니,전복,참다랑어,선어,연어 ＋ 랜덤제공） 상황에 따라 그날그날 들어오는 횟감으로 변경 또는 추가 써비스제공",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FB8C5A5CBEB88436895EAC2A6501E030A
+154,133,수제계란초밥（다테마끼）,1600.0,계란.산마.날치알 저희가 직접 만든（계란.산마.날치알）쿄쿠 참고~기성제품이 아님을 저희가 보여드리기 위해 모양을 동그랗게하여（손이많이가는작업）제공합니다!!,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FBCD6B6D800AE439CB0222394D5C9016C
+155,133,호야 지라시,12000.0,"아마애비,연어,참치,찐쭈꾸미,찐새우,알계란,날치알 아마애비＋연어＋참치＋찐쭈꾸미＋찐새우＋알계란＋날치알이 뜸뿍 들어가 간장으로 비벼서 드시는 돈부리",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FD845251E6E3B41138B2724D042BD8675
+156,133,회덮밥,11000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F985731BE309346DFB827A13A735B23FD
+157,133,장어덮밥,20000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4F6BB89BF2D042099EAAA49ED1511DB9
+158,133,알탕,13000.0,공기밥 포함,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FA61B3A1284DC4046A3960D3E7A5D414A
+159,133,호야 연어 모듬 12pcs,31000.0,연어2 연어뱃살2 연어배꼽2 연어군함2 연어양파2 연어카니미소2 연어아부리2,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F9BE623B97AE94F14A1C7306427314BAC
+160,133,참다랑어 오도로 초밥 12pcs,62000.0,귀한 부위여서 즉시 드셔야 합니다. 고유의 맛을 살리기 위해 밥알과 참치네다를 따로 드리오니 직접 만들어 드시면 됩니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F44C96539E3D14204B8EF687078B97717
+161,133,참다랑어 가마도로&오도로（12pcs）,55000.0,"귀한 부위여서 즉시 드셔야 합니다. 고유의 맛을 살리기 위해 밥알과 참치네다를 따로 드리오니, 직접 만들어 드시면 됩니다.",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F9042BA60E06F492484BA41A4955F354C
+162,133,참다랑어 참치뱃살 12pcs,40000.0,"참치의비린맛을 최대한방지하기위해서 밥（샤리）과 참치를 따로 제공합니다~귀한 부위여서 즉시 드셔야 하며, 시간이 지나면 갈변 될수 있습니다.",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F301F9A0E90CF4912B5698DC7A046A8F0
+163,133,참다랑어 가마도로 12pcs,60000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F61335AA6E6AA4E53846120F06970F18A
+164,133,연어초밥（8pcs）,18000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FEE1C675FEFCA47A691CB11546A9E8E96
+165,133,소고기 초밥 12pcs,26000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F12BAA8DC3ED24F78BE9B7B60C52D2E1C
+166,133,광어 초밥 12pcs,32000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F8816FA55089B481E80A99A41BCAF32BD
+167,133,광어6＋연어6 12pcs,29000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FAEDFCBDF9E384B9EB8174C675F4FEB1A
+168,133,소고기6＋연어6 12pcs,27000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FC18D1E17084B431B85BCD1BAA86F8155
+169,133,연어아부리6＋연어6 12pcs,27000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F7E746A2AF31945E2BD4D28D447148F2C
+170,133,참이슬 후레쉬,5000.0,대나무 숯으로 4번 걸러 더 깨끗해진 참이슬 fresh,
+171,133,처음처럼,5000.0,대관령 기슭 암반수로 만든 부드러운 소주,
+172,133,진로,5000.0,"진로 이즈 백! 소주의 원조, 진로가 돌아왔다",
+173,133,테라,5000.0,"주의~주문시 주의해서 열어 주세요. 탄산이 폭발합니다~ 시대의 돌풍을 일으킬 청정라거, TERRA 청정맥아 100%, 리얼탄산 100% 테라는 세계 공기질 부문 1위 호주에서 자란 청정맥아와 오직 발효공정에서 나오는 리얼탄산을 100% 사용하여 거품은 조밀하고 탄산은 오래 지속됩니다. 국내 레귤러 라거 최초 Green Bottle을 적용하였고, 토네이도 패턴을 통해 눈으로 보는 청량감을 구현하였습니다.",
+174,133,카스,5000.0,주의~주문시 주의해서 열어 주세요. 탄산이포발합니다 올 뉴 카스 프레시는 카스만의 콜드브루 공법을 통해 맥주의 상쾌함과 깔끔한 맛을 한층 더 극대화하였습니다.,
+175,133,청하,6000.0,맑고 깨끗한 청주,
+176,133,매화수,6000.0,매화수 피는 날 달콤한 맛이 화사하게 피어나다 ‘저온 냉동 여과공법’을 사용해 부드럽고 깨끗한 맛! 매실의 풍미와 달콤함을 부담없이 즐길 수 있는 12도의 도수와 매화꽃을 매력적이고 트렌디하게 표현한 디자인으로 언제 어디서든 부담없이 달콤하게 즐길 수 있습니다.,
+177,134,돼지오징어타마,14500.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FD9ECFFE53AC84E89B8F176412B778669
+178,134,시오소바,14000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F9B1CA510AF2A4F9BB890334F8C819A78
+179,134,야키소바,13500.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F4956EEE3D1FE4917A47DABFDF972A274
+180,134,오징어타마,14000.0,,
+181,134,돈페이야키,7000.0,,
+182,134,돼지타마,13000.0,,
+183,134,야키우동,13500.0,,
+184,135,연어모듬초밥 （14 pcs）,20000.0,생연어 12pcs연어아부리 2pcs,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F6030150F5EB540CAAE36DE07A87960B1
+185,135,모듬초밥 （14 pcs）,17000.0,"（총 14pcs）광어초밥＋생연어초밥 ＋생새우 ＋간장새우 ＋장어초밥 ＋초새우초밥 ＋문어 ＋한치 ＋타코와사비 ＋날치알군함 , 계란",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F00D7E57C8E44475D99FBBF2D3A1270E7
+186,135,광어초밥 （14 pcs）,20000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FEC8D062411ED4C65B64D94062965EEAC
+187,135,광어 & 생연어초밥 （14 pcs）,20000.0,광어 7pcs생연어 5pcs연어 아부리 2pcs총 14pcs,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4D02CCA4AFFA41DFA98B86880CC94664
+188,135,음료수,1000.0,음료 선택,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FA7985AC5683445E4B2B33168A3ED2126
+189,136,규카츠 정식,20000.0,규카츠（중량선택） ＋ 밥 ＋ 피클 ＋ 감자샐러드 ＋ 양배추샐러드 ＋ 소스2종 ＋ 장국 + 와사비,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FD8B1848BDE0C43FE80821418D778908E
+190,136,리얼치즈카츠 정식,23000.0,통모짜렐라를 얇은 돈등심으로 감싸 빵가루에 묻혀휴지된 상태의 카츠를 약 7분간 튀겨낸 치즈카츠정식,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4389B39410694C0C901734AEC141D019
+191,136,커리크림우동,15000.0,매콤한 일본식 커리우동에 고베규카츠만의 특제 크림 소스를 더한 치명적인 맛의 크림우동,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F1F727648976D4DD8ADC913999D9844E3
+192,136,불닭크림볶음면,15000.0,특제 소스로 맛을 낸 일본식 붉닭볶음면에 단호박 크림소스를 더해 매콤하지만 부드러움이 일품인 볶음라멘,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F390FD0D67EE344D8BBA808D6707FEAC3
+193,136,살치살 규카츠 정식,30000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FE56F3AF97A814539B9525C89403D70E0
+194,136,수비드 삼겹카츠 정식,25000.0,삼겹살의 재발견10시간 동안 저온조리하여 만든 수비드 삼겹카츠,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F9D43F584187B46409AA22268B496B786
+195,136,스테이크 덮밥,16000.0,스테이크 덮밥 ＋ 장국 ＋ 초생강 ＋ 초고추 ＋ 락교 부드러운 소고기 등심부위에 바다향 가득한 밥을 더한 퓨전 일본식 덮밥,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FA42C4FC08AB948EDBF98BBA238E5DF62
+196,136,새우삼겹덮밥,13000.0,"새우삼겹덮밥 ＋ 초생강 ＋ 초고추 ＋ 락교 고소한 우삼겹에 탱글탱글한 새우, 거기에 일본식 특제소스와 불맛까지 더한 강력추천메뉴",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FF2D8E06A22BE48FB86554B47A304B131
+197,136,치킨마요덮밥,12000.0,치킨 가라아게와 특제소스 마요드레싱과 덮밥소스를 뿌려 비벼먹는 맛이 일품,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F1B1F1AC8FDDA40C29575201A77018840
+198,136,우삼겹덮밥,13000.0,고소한 우삼겹과 특제 간장 소스의 감칠맛과 불맛이 잘 어울어진 맛이 일품,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F9B01ED7A831D4A0181BED73CE5AA8A28
+199,136,소고기덮밥,13000.0,수제로 만든 간장소스 혹은 매콤소스에 소고기 특수부위를 볶아 올린 덮밥,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FFE2D8E0080114A9D818AFCA7401D3814
+200,136,멜팅치즈볼 5p,5000.0,달콤하고 폭신한 반죽 안에 진한 치즈가 듬뿍 꿀에 찍어 더욱 맛있게 즐겨보세요 5ea,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F78A4DDE59C98450398A5CCD879E37325
+201,136,아란치니 5p,7000.0,#호불호없는 #라구소스풍미 #동글동글귀여운 #이탈리아식 #주먹밥요리,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F1D77AD7BAE1E4925A8735C76E430AB65
+202,136,가라아게 6p,5000.0,바삭한 튀김에 촉촉한 순살 치킨을 동시에 즐길 수 있는 인기만점 메뉴,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F196D7595EE2A4FC8876BFEA1A6C2ADE6
+203,136,왕새우튀김 4p,5000.0,바삭함 속에 탱탱함이 살아있는 새우살이 입안가득~,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F806BDC436E1D4CDC895F963DF32B3348
+204,136,다시계란,1000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F51D7982886924444854FA1FB75758E57
+205,136,오징어링,3000.0,4p,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FA2B7C75F64D94721BBF72C87D6DE1891
+206,136,치즈스틱,3000.0,4p,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FD04AD9A3CD0A4C4EA3935E104575D491
+207,136,콜라 355mL,2000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F8CC79C085B3743089993E7EA7C76EB27
+208,136,사이다 355mL,2000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F207FEB5D4EC940208B7102834CD6A0AB
+209,136,포도맛,2000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FAA884085A75D425CACCBA26D2180C142
+210,136,파인애플맛,2000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F508D274480934847A5AFBB2D5507A02C
+211,136,제로콜라,2000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F07030CAAA3D14FB4AF09F9C7B89B97DC
+212,137,안주 스키야키,15000.0,,
+213,137,안주 쇼가야키,15000.0,,
+214,137,카라아게,12000.0,,
+215,137,시오카라아게,12000.0,,
+216,137,시메사바 (고등어 식초절임),5000.0,,
+217,137,닭껍데기튀김,5000.0,,
+218,137,카키아게 (야채와 사쿠라에비튀김),12000.0,,
+219,137,카시와텐 (닭가슴살 튀김),10000.0,,
+220,137,야사이카레 (야채카레),11000.0,,
+221,137,카츠카레,9500.0,,
+222,137,고로케카레,9500.0,,
+223,137,새우카레,9500.0,,
+224,137,고로케새우카레,9500.0,,
+225,137,카라아게카레,9500.0,,
+226,137,카레우동,11000.0,,
+227,137,감자고로케,6500.0,,
+228,137,돈카츠,6500.0,,
+229,137,새우튀김,7000.0,,
+230,137,감자튀김,3500.0,,
+231,137,카케우동/소바,7000.0,,
+232,137,타누키우동,8000.0,,
+233,137,고로케우동/소바,9000.0,,
+234,137,치쿠와텐우동,10000.0,,
+235,138,안심돈까스,9500.0,,
+236,138,등심 돈까스,9000.0,,
+237,138,생선까스,9000.0,,
+238,138,모듬까스,11500.0,,
+239,138,철판돈까스,10000.0,,
+240,138,돈까스김치나베,10000.0,,
+241,138,소바정식,11500.0,,
+242,138,뚝배기우동정식,11500.0,,
+243,138,판모밀(자루소바),8500.0,,
+244,138,냉모밀,8500.0,,
+245,138,에비우동,8500.0,,
+246,139,돈코츠 라멘 시로마루,10000.0,,
+247,139,돈코츠 라멘 오리지날,10000.0,,
+248,139,돈코츠 라멘 매운맛,10000.0,,
+249,140,레인보우롤,8000.0,,
+250,140,아보카도롤,8000.0,,
+251,140,크런치롤,8000.0,,
+252,140,베이키드연어롤,8000.0,,
+253,140,연어 (2pcs),2500.0,,
+254,140,필라델피아롤,8000.0,,
+255,140,매운연어롤,8000.0,,
+256,140,하와이안롤,8000.0,,
+257,140,매운참치롤,8000.0,,
+258,140,인앤아웃연어롤,8000.0,,
+259,140,인앤아웃참치롤,8000.0,,
+260,140,타이거롤,8000.0,,
+261,140,팝콘랍스터롤,8000.0,,
+262,140,팝콘스칼럽롤,8000.0,,
+263,140,핫나이트롤,8000.0,,
+264,140,파이어크런치롤,8000.0,,
+265,140,불고기롤,8000.0,,
+266,140,케터피러롤,8000.0,,
+267,140,오징어(2PCS),2500.0,,
+268,140,새우(2PCS),2000.0,,
+269,140,생새우(2PCS),2500.0,,
+270,140,볼케이노롤,,,
+271,141,유니자장면,8000.0,,
+272,141,간짜장,9000.0,,
+273,141,해물쟁반짜장,20000.0,,
+274,141,짬뽕,9000.0,,
+275,141,삼선우동,11000.0,,
+276,141,볶음짬뽕,12000.0,,
+277,141,사천탕면,11000.0,,
+278,141,중국식냉면,11000.0,,
+279,141,냉짬뽕,11000.0,,
+280,141,기스면,8000.0,,
+281,141,낙지짬뽕,13000.0,,
+282,141,차돌짬뽕,13000.0,,
+283,141,자연송이덮밥,18000.0,,
+284,141,잡탕밥,16000.0,,
+285,141,게살볶음밥,11000.0,,
+286,141,고추잡채밥,13000.0,,
+287,141,누룽지탕밥,12000.0,,
+288,141,새우볶음밥,9000.0,,
+289,141,짬뽕밥,10000.0,,
+290,141,군만두,7000.0,,
+291,141,물만두,7000.0,,
+292,141,어향동고 (소),35000.0,,
+293,141,류산슬 (소),33000.0,,
+294,141,양장피잡채 (소),30000.0,,
+295,141,당면잡채 (소),25000.0,,
+296,141,해물누룽지탕 (소),38000.0,,
+297,141,새우두부 (소),25000.0,,
+298,141,마파두부 (소),25000.0,,
+299,141,게살두부 (소),30000.0,,
+300,141,오화구육(동파육) (소),30000.0,,
+301,141,사천식탕수육 (소),25000.0,,
+302,141,탕수육 (소),20000.0,,
+303,141,라조육 (소),28000.0,,
+304,141,깐풍육 (소),28000.0,,
+305,141,찹쌀탕수육,22000.0,,
+306,141,깐풍큰새우,13000.0,,
+307,141,깐소큰새우,13000.0,,
+308,141,크림중새우 (소),30000.0,,
+309,141,깐소중새우 (소),30000.0,,
+310,142,냉이탕면(봄),8000.0,,
+311,142,냉이탕밥(봄),9000.0,,
+312,142,하이난 특중식냉면(여름),12000.0,,
+313,142,바지락 사천탕면(가을),8000.0,,
+314,142,바지락 사천탕밥(가을),9000.0,,
+315,142,굴짬뽕면(겨울),9000.0,,
+316,142,굴짬뽕밥(겨울),10000.0,,
+317,142,삼선자장,7000.0,,
+318,142,쟁반자장(2인),16000.0,,
+319,142,삼선짬뽕,8000.0,,
+320,142,삼선짬뽕밥,9000.0,,
+321,142,기스면,7000.0,,
+322,142,하이난 탕면,8000.0,,
+323,142,자연송이 특짬뽕,14000.0,,
+324,142,자연송이 덮밥,15000.0,,
+325,142,잡탕밥,13000.0,,
+326,142,유산슬밥,,,
+327,142,잡채밥,,,
+328,142,마파두부밥,,,
+329,142,삼선 볶음밥,,,
+330,143,부추지짐만두 (9개),8000.0,,
+331,143,새우지짐만두 (9개),9000.0,,
+332,143,고기_빠오즈 (8개),8000.0,,
+333,143,훈둔면,8000.0,,
+334,143,훈둔,8000.0,,
+335,143,매운 훈둔면,8500.0,,
+336,143,딴딴면,8000.0,,
+337,144,통후추중새우,21000.0,,
+338,144,몽골리안비프,27000.0,,
+339,144,해물볶음짜장,7500.0,,
+340,144,미식짜장면,6500.0,,
+341,144,미식짬뽕,8000.0,,
+342,144,해물백짬뽕,8000.0,,
+343,144,해물볶음짬뽕,9000.0,,
+344,144,마라탕면,11000.0,,
+345,144,크림짬뽕,10000.0,,
+346,144,사천탕면,9000.0,,
+347,144,미식볶음밥,8000.0,,
+348,144,돼지고기볶음밥,8000.0,,
+349,144,새우볶음밥,8000.0,,
+350,144,유산슬밥,12000.0,,
+351,144,잡탕밥,14000.0,,
+352,144,잡채밥,8000.0,,
+353,144,마파두부밥,7000.0,,
+354,144,사천식가지덮밥,7500.0,,
+355,144,유산슬,30000.0,,
+356,144,오향장육,30000.0,,
+357,145,고추간자장,9900.0,해산물과 청양고추로 매콤하게 맛을 낸 색다른 맛의 자장 곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F8EB32568261140E5812AF83DC0C31218
+358,145,유니자장면,7700.0,야채와 고기를 잘게 다져 볶은 자장 곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FCC5C1665E9A0465BA750237B4BAEF658
+359,145,해물짬뽕,9900.0,곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F60B777509BDE46AB894AEC0471CF0279
+360,145,차돌박이짬뽕,9900.0,차돌과 숙주를 넣어 만든 진하고 얼큰한 짬뽕 곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FEC83595D61CC41D09980818E4C47A8EB
+361,145,고기볶음밥（건국대 인기메뉴）,8800.0,돼지고기를 넣은 볶음밥 곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4A0AADEE4F4E4F1B9EFF4CA3D762EE34
+362,145,삼선간자장,8800.0,해산물과 야채가 듬뿍 들어간 자장 곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F7BBE4ED6C2D74DB69A714C1110BC9EB7
+363,145,삼선자장면,8800.0,해물과 야채를 듬뿍 넣어 볶은 자장 곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FE4B20E75370F479F852192A646801B7B
+364,145,비프챠우면（광동식 볶음면）,13200.0,"광동식 볶음면으로 면발의 씹는 식감이 전혀 색다르며 소고기, 시금치, 숙주를 함께 볶아 담백한 맛의 면 곱배기 추가 가능",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FDFD817EB294242938855414110DAF50A
+365,145,XO볶음밥（xo소스로 맛을낸 볶음밥）,11000.0,XO소스를 넣어 볶은 볶음밥 곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4D2A2D7A399B46B283C48E91830DD139
+366,145,탕수육 Small,18700.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FC8C75DE6E8454C258D95F1FA9203D068
+367,145,탕수육 Regular,24200.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FA8A4919D8E854639ABC64FAA7CBC564C
+368,145,고추쟁반자장 2人分（분）,19800.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F34EE67CD7CFC47088CA2F16F03EA1B7B
+369,145,XO볶음밥（xo소스로 맛을낸 볶음밥）,11000.0,XO소스를 넣어 볶은 볶음밥 곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F966580E84D1A4D52A6211AA84F3D8B42
+370,145,해물우동,11000.0,곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FEC75B81C92044C379F7D4B614E60F380
+371,145,해물울면,11000.0,곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FD54170690B954AF9A966C9D12D9B728F
+372,145,기스면,9900.0,닭육수로 우려낸 국물이 담백하고 시원한 맛의 탕면 곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F3A44943A14D44563AAB0AFDC434D0326
+373,145,시옌면（매콤한소스＋국물없는 면）,12100.0,야채와 버섯을 넣어 고추기름으로 맛을 낸 곱배기 추가 가능,
+374,145,중국식 냉면（계절대표메뉴）,13200.0,싱싱한 해물과 직접 우려낸 육수로 감칠맛을 낸 쫄깃한 식감의 별미,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4E2E2943BAAE4F20A83317689A1D2878
+375,145,물만두 12ea,7700.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F6C45EAF0C38E4D25AB6B114FC947BB1A
+376,145,삼선볶음밥,9900.0,"해삼, 새우, 오징어를 각종 야채와 볶아 만든 음식 곱배기 추가 가능",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F57259E5F7711411B8E650D3CE72DB64A
+377,145,해물짬뽕밥,11000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F9A813486FF5647FE85E44A7B82F82317
+378,145,차돌짬뽕밥,11000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FF68BD06F62264AB58EAD48AC96BEABEE
+379,145,잡탕해물밥,14300.0,곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F9715C214E57B44EBB9458C9FA6C86001
+380,145,유산슬밥,14300.0,"고기, 해삼, 야채를 걸쭉하게 볶아낸 유산슬 소스가 입맛을 당기는 덮밥 곱배기 추가 가능",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FFB7E57FADEF0487BA74DD367E64225D0
+381,145,시옌밥（매콤한소스로 맛을낸 시옌특밥）,13200.0,버섯과 야채를 넣어 고추기름으로 맛을 낸 덮밥 곱배기 추가 가능,
+382,145,잡채밥,9900.0,"피망, 버섯, 양파 등 여러가지 야채를 넣어 당면과 함께 볶아 조리한 음식 곱배기 추가 가능",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F540A345AA307449298AB925FCA443203
+383,145,고추잡채밥,12100.0,"피망, 고기, 버섯, 야채 등을 채 썰어 볶은 덮밥 곱배기 추가 가능",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F6A1947DCD9014F34878C255DD18E1E04
+384,145,마파두부밥,9900.0,곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FE532FEDD86154D4F958E1864BFF7FFD9
+385,145,가지덮밥（대만 가정식덮밥&매장 인기메뉴）,13200.0,가지와 돼지고기를 넣어 만든 대만 가정식 덮밥 곱배기 추가 가능,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F09B5D14B3CE94A219D26E5AAC201F5D2
+386,145,물만두 12ea,7700.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FC169BB1A17E04B9D814261D160FF9141
+387,146,짜장면,6000.0,,
+388,146,짬뽕,7000.0,,
+389,146,간짜장,7000.0,,
+390,146,우동,8000.0,,
+391,146,쟁반짜장,9000.0,,
+392,146,삼선짜장,9000.0,,
+393,146,삼선짬뽕,11000.0,,
+394,146,삼선우동,11000.0,,
+395,146,고추짬뽕,11000.0,,
+396,146,볶음밥,8000.0,,
+397,146,짜장밥,8000.0,,
+398,146,짬뽕밥,8000.0,,
+399,146,삼선볶음밥,10000.0,,
+400,146,새우볶음밥,10000.0,,
+401,146,잡채밥,9000.0,,
+402,146,삼선짬뽕밥,12000.0,,
+403,146,송이덮밥,9000.0,,
+404,146,잡탕밥,14000.0,,
+405,146,깐풍기,30000.0,,
+406,146,누룽지탕,30000.0,,
+407,146,마라원짜장,8000.0,,
+408,146,찹쌀탕수육(소),17000.0,,
+409,147,짜장면,7000.0,,
+410,147,짬뽕,9000.0,,
+411,147,간짜장,8500.0,,
+412,147,쟁반짜장(1인),9500.0,,
+413,147,해물비빔짬뽕,11000.0,,
+414,147,삼선짬뽕,13000.0,,
+415,147,나가사키짬뽕(삼선),13000.0,,
+416,147,소고기짬뽕,12000.0,,
+417,147,굴짬뽕(계절),12000.0,,
+418,147,소고기새우볶음밥,9000.0,,
+419,147,마파두부밥,10000.0,,
+420,147,잡채밥,9500.0,,
+421,147,잡탕밥,10000.0,,
+422,147,짬뽕밥,10000.0,,
+423,147,비빔짬뽕밥,11000.0,,
+424,147,납작탕수육(소),18000.0,,
+425,147,미니탕수육,14000.0,,
+426,147,양념탕수육(소),20000.0,,
+427,147,벌꿀간장탕수육(소),20000.0,,
+428,148,위샹루스,15000.0,,
+429,148,해물볶음밥,7000.0,,
+430,148,건두부볶음,9000.0,,
+431,148,마파두부,9000.0,,
+432,148,건두부무침,6000.0,,
+433,148,지삼선,13000.0,,
+434,149,우삼겹(150g),14900.0,,
+435,149,양갈비살(200g),16900.0,,
+436,149,돈삼겹살(150g),13900.0,,
+437,149,새우완자(100g),10900.0,,
+438,150,짜장면,4000.0,,
+439,150,간짜장,4500.0,,
+440,150,짬뽕,4500.0,,
+441,150,쟁반짜장,5500.0,,
+442,150,볶음짬뽕,6000.0,,
+443,150,짜장밥,5000.0,,
+444,150,짬뽕밥,5500.0,,
+445,150,짬짜면,6000.0,,
+446,150,탕짜면,8000.0,,
+447,150,군만두,4000.0,,
+448,150,탕수육,10000.0,,
+449,150,탕수육+짜장2 세트,14000.0,,
+450,150,탕수육+짬뽕2 세트,15000.0,,
+451,150,탕수육+쟁반짜장2 세트,18000.0,,
+452,150,탕수육+볶음짬뽕2 세트,19000.0,,
+453,151,클래식 버거,10800.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F1100D13B4B4F469D829F6723A7B3F7E5
+454,151,치즈버거,8800.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F6D5ACD24D7914EF7B3D4534A9ACB22AC
+455,151,머쉬룸 버거,10800.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F7CC3147FD06448CFA60579EB97677863
+456,151,핫페퍼 버거,10800.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F07D0C418F3D04C37A040DE0E6C8C61DE
+457,152,가지튀김,14000.0,,
+458,152,가츠산도(목살),16000.0,,
+459,152,세비체,20000.0,,
+460,152,삼치파스타,25000.0,,
+461,152,소꼬리트러플파스타,25000.0,,
+462,152,귀리버터&전설의바게트,5000.0,,
+463,152,홍합피클&냉이페스토(2P),8000.0,,
+464,152,라비올리튀김,13000.0,,
+465,152,감자튀김,12000.0,,
+466,152,양배추&미소버터소스,18000.0,,
+467,152,마구로주도파스타,20000.0,,
+468,152,소꼬리라구파스타,23000.0,,
+469,152,흑돼지안심스테이크,30000.0,,
+470,152,오늘의생선요리,32000.0,,
+471,152,한우채끝1++스테이크,49000.0,,
+472,152,라즈베리소르베,5000.0,,
+473,152,로스카츠정식(등심),13000.0,,
+474,152,히레까스정식(안심),13000.0,,
+475,152,상로스카츠정식(특등심한정),15000.0,,
+476,153,매콤 크림 파스타,9900.0,진한 크림에 누구나 좋아하는 새우와 베이컨이 들어간 중독성 강한 매콤 파스타,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F69679217BD084858AB85B4F3228B41FB
+477,153,김치 베이컨 필라프,10900.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FB0CB1DC7F1884C13857865309AE36D57
+478,153,투움바 파스타,10900.0,특제 투움바 소스 가득~~ 베이컨과 쉬림프 중 선택 가능하십니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F6FE7E93F2C2E412ABAF5AE435FB867AB
+479,153,까르보나라,9900.0,진한 특제 크림소스 파스타 우삼겹과 베이컨 중 선택 가능하십니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F0F2962A1521A465DAF0FF8A7A5146A1C
+480,153,알리오 올리오,10500.0,"기본에 충실한 오일 파스타 '알리오 올리오' 앤초비, 트러플 베이컨, 트러플 쉬림프, 트러플 우삼겹 중에 선택 가능하십니다.",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F842FB3066A6A43F1A7609475E93EEA94
+481,153,토마토 파스타,9900.0,"특제 토마토 소스 파스타 베이컨, 쉬림프 중 선택 가능하십니다.",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FA002C6459AF448D0B705157290D36041
+482,153,로제 파스타,9900.0,중독성 강한 로제 소스 파스타 베이컨과 쉬림프 중 선택 가능하십니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F392646DB38484EBEB70697A930C7D7AA
+483,153,찐짬뽕 해장 파스타(얼큰),10900.0,"매콤한 고추기름과 각종 해산물, 토마토소스를 넣어 끓여낸 짬뽕 해장 파스타",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FAEA344EAC3A34BF19EB80BCAC103E4CA
+484,153,봉골레 파스타,10900.0,특제 비법 봉골레 소스와 조개의 콜라보,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F6E2D7D9A032144169CB09BBFAAA69350
+485,153,베이컨 필라프,10900.0,"양파, 버섯 그리고 베이컨에 불맛을 입혀 볶아낸 필라프",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F493F9F29425B4273B8225BFA73164712
+486,153,쉬림프 필라프,10900.0,"양파, 버섯 그리고 쉬림프에 불맛을 입혀 볶아낸 필라프",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FC645A70B31164C85A55F46F78E19AD14
+487,153,우삼겹 필라프,10900.0,"양파, 버섯 그리고 우삼겹에 불맛을 입혀 볶아낸 필라프",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FD8FBD4DFBBE6461AB9DA7C5572AA327E
+488,153,투움바 리조또,9900.0,"특제 투움바 소스 리조또 베이컨, 쉬림프 중 선택 가능하십니다.",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F65556DF4FBE54DE18C052225B831256E
+489,153,매콤 크림 리조또,9900.0,진한 크림에 누구나 좋아하는 새우와 베이컨이 들어간 중독성 강한 매콤 리조또,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F1B3538A9B10248AF9A7D5A5A63D2B655
+490,153,로제 리조또,9900.0,중독성 강한 로제 소스 리조또 베이컨과 쉬림프 중 선택 가능하십니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FA0461FA8FE094361AA2D5B21BAE380B8
+491,153,리코타 치즈 샐러드,7000.0,"리코타 치즈, 양상추, 치커리, 방울토마토, 아몬드, 오리엔탈 드리싱",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FD3C3392E931940F2AE670B4C0CD7A14E
+492,153,감바스,16000.0,"오동통한 새우와 방울토마토, 양파, 버섯으로 맛을 낸 감바스와 호밀빵(2개)",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FCD7C47E070B04DD994DB788F06D256A8
+493,153,부채살 찹스테이크,16000.0,"토마토 소스, 스테이크 소스로 푹 끓여낸 스튜 느낌의 부채살 큐브 스테이크",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F88BBFA1A1BED42D7BACD35D0AE2A4B2B
+494,153,수제맥주,,"15종의 생맥주와 5종의 캔,병맥주",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FA1EA22984ADC41E4B95F7353ADCD761F
+495,154,소고기 타코(2TACOS),12800.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FD301A2D575454A4989F34F5A6293D9B1
+496,154,돼지고기 타코(2TACOS),11800.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F70331E95D02C42B3BB7147601E2867E4
+497,154,소고기 께사디야,15800.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F9A7EA17BCA7D46239306A34B0890F385
+498,154,돼지고기 께사디야,14800.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F8DF990A374C644B0896200BEEF79DE4A
+499,154,과꽈몰레 나초,9800.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FA2BC3A5393044F54B699670C6A5C4566
+500,154,새우타코,12800.0,,
+501,154,피쉬타코,12800.0,,
+502,154,비리아타코,13800.0,,
+503,154,소고기타코랩,14300.0,,
+504,154,돼지고기타코랩,13300.0,,
+505,154,몰까헤떼믹스또,47000.0,,
+506,154,스피니치&머쉬룸샐러드,26000.0,,
+507,154,시저꼰뽀요샐러드,18000.0,,
+508,154,비프치즈나초,14300.0,,
+509,154,치즈나초,6800.0,,
+510,154,멜티즈치즈딥나초,7800.0,,
+511,154,스피니치딥나초,11800.0,,
+512,154,빠빠,12800.0,,
+513,154,할라빼뇨믹스또,5800.0,,
+514,154,께소,6800.0,,
+515,154,과까몰레,7800.0,,
+516,155,목살스테이크 샐러드,17900.0,두툼한 목살 스테이크와 각종 샐러드 스테이크류는 샐러드 포함이며 딜리버리 특성상 먹기좋은 크기로 컷팅되어서 제공됩니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F25C7CCB8D89F4695AEF00006D3A65AB8
+517,155,리코타 치즈 샐러드,16900.0,매장에서 직접 만든 신선한 리코타 치즈를 올린 건강식 웰빙 샐러드,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FF7E0AA7D679849C2A720B393427F9F60
+518,155,오이스터 해물 크림 스파게티,14900.0,"（면200g）, 매콤하고 진한 굴소스 베이스의 해물크림 스파게티 매콤한맛 매콤한맛 또는 매운맛의 파스타의 경우 맵게 또는 덜맵게 조절이 가능합니다. 하지만 기본 정량대로 조리했을때 가장 맛있습니다.",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F2EFCE417BC1048E9AC9CCF7FF05CBA67
+519,155,게살 딥 로제 스파게티,14900.0,"면（200g）, 풍미가득한 로제소스에 게살이 듬뿍 들어간 스파게티",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F814BD5FBE904465A915074C099885971
+520,155,목살필라프,15900.0,"약간 매콤, 먹기좋은 크기의 목살이 가득한 담백한 필라프",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FDA674D8EBAED47E389C80208658E464B
+521,155,해산물 크림 리조또,14900.0,고소하고 진한 크림소스에 신선한 해산물이 들어간 깊은 풍미의 리조또,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F35C343AF8EEB423997DF884B884F79CD
+522,155,부채살 스테이크 샐러드,19900.0,부채살 스테이크 200g＋신선한 야채샐러드 알맞게 숙성된 부채살에 그릴향을 더한 깊은 맛의 스테이크 부채살 스테이크 샐러드의 경우 딜리버리 특성상 미디움웰던 으로 일괄 제공되며 먹기좋은 크기로 컷팅되어서 제공됩니다. 메뉴 특성상 고기가 부족하다고 느끼실경우 고기추가 이용 부탁드립니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F2569A7B01E08441B864688ECF3CBF2A9
+523,155,베이컨 까르보나라,14900.0,"면（200g）, 느끼함을 줄이고 고소함은 더한 크림소스 스파게티",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F847FA2D769324468AD990C7368037584
+524,155,해산물 올리브 스파게티,13900.0,"면（200g）, 매콤함, 제철 해산물이 가득한 봉골레 스타일의 깔끔한 스파게티 매콤한맛 매콤한맛 또는 매운맛의 파스타의 경우 맵게 또는 덜맵게 조절이 가능합니다. 하지만 기본 정량대로 조리했을때 가장 맛있습니다.",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FC447938D60AB4F64B6437A4B021ABBDB
+525,155,해산물 토마토 스파게티,14900.0,"면（200g）,제철 해산물이 가득한 로니로티 특제 토마토 소스 스파게티",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F685A3312C60A42FA94087AE474C643B3
+526,155,눈꽃 치즈 토마토 스파게티,17900.0,"면（200g）,하얀 눈꽃치즈와 다진 소고기를 넣은 토마토 스파게티의 환상적인 궁합",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F9206A17D4BE64396821B11B5B92DC493
+527,155,해산물 야끼 필라프 매운맛,15900.0,"매움, 신선한 해산물과 목살을 매콤하게 볶은 필라프 매운맛",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FCB0DBE93A1904DF7B76D44131552855F
+528,155,갈릭 삼겹살 스테이크 샐러드,17900.0,로니로티 특제 마늘소스를 곁들인 두툼한 삼겹살 스테이크와 각종 샐러드 스테이크류는 샐러드 포함이며 딜리버리 특성상 먹기좋은 크기로 컷팅되어서 제공됩니다.,
+529,155,치킨 찹 스테이크 샐러드,17900.0,매콤한 로니로티 특제소스로 맛을 낸 닭다리살과 샐러드 매운맛 스테이크류는 샐러드 포함이며 딜리버리 특성상 먹기좋은 크기로 컷팅되어서 제공됩니다.,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FE10F9C3594AE4BE69390BE8FFA378860
+530,155,닭가슴살 샐러드,16900.0,그릴에 구운 닭가슴살과 로니로티의 특제드레싱이 조화를 이룬 샐러드,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F95367DD136F74D38A5F7AE321988FC05
+531,155,핑거텐더 샐러드,16900.0,부드럽고 고소한 닭가슴살 튀김과 하우스 샐러드,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F8B5A16DEFF9143B28BB879F83AFDB6DE
+532,155,버팔로 윙 샐러드,16900.0,"매콤, 노릇노릇한 닭날개,닭봉 튀김과 하우스샐러드 매콤한맛",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F5E91C860ED024CDA963DBDA414DA74C9
+533,155,새우 샐러드,16900.0,그릴에 구운 탱글탱글한 새우와 로니로티의 특제 드레싱이 조화를 이룬 샐러드,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F17DD29A0CAB24C798F6D66C2679BDD9C
+534,155,이탈리안 돈까스 샐러드,14900.0,바삭함과 깊은 맛이 일품인 두툼한 등심 커틀렛,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FC9A38FE9208D43C0BF5262B5DA6249C2
+535,155,오이스터 베이컨 크림 스파게티 매콤한맛,14900.0,"면（200g）, 매콤하고 진한 굴소스 베이스의 베이컨크림 스파게티 매콤한맛 매콤한맛 또는 매운맛의 파스타의 경우 맵게 또는 덜맵게 조절이 가능합니다. 하지만 기본 정량대로 조리했을때 가장 맛있습니다.",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F523BF3C944DD4255A1CDAF1792D27DF6
+536,155,오이스터 닭가슴살 크림 스파게티,14900.0,"면（200g）, 매콤하고 진한 굴소스 베이스의 닭가슴살 크림 스파게티 매콤한맛 매콤한맛 또는 매운맛의 파스타의 경우 맵게 또는 덜맵게 조절이 가능합니다. 하지만 기본 정량대로 조리했을때 가장 맛있습니다.",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FCDD68C4F5CCD48E4B50C2729951630DC
+537,155,해산물 까르보나라,14900.0,"면（200g）, 신선한 해산물과 담백한 크림소스가 만난 스파게티",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FA8CC25538FBA48389F88DBC4EA5F1878
+538,155,치킨 버섯 크림 스파게티,14900.0,"면（200g）, 닭가슴살과 버섯의 조화가 일품인 크림 스파게티",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F2639753B26A946F7B618F2C459AED543
+539,155,차돌박이 상하이 스파게티,17900.0,"면（200g）,매움, 느끼함을 잡을수 있는 차돌박이에 불맛이 느껴지는 매콤한 스파게티 매운맛 매콤한맛 또는 매운맛의 파스타의 경우 맵게 또는 덜맵게 조절이 가능합니다. 하지만 기본 정량대로 조리했을때 가장 맛있습니다.",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F081F6B7322F240CC83CE998FB2E9D6F7
+540,155,새우 필라프,15900.0,"약간매콤, 탱글탱글한 새우의 속살을 느낄 수 있는 필라프",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F67AA88439D0941B3887154B02BA8B3C5
+541,155,김치 필라프,14900.0,"매콤, 매콤한 김치화 돈 목살이 조화를 이룬 필라프 매콤한맛",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F84DA6499C42B4A40B6570D7666BAB631
+542,155,커리게살 필라프,15900.0,"약간매콤, 게살과 커리향이 잘 조합된 태국풍의 필라프",
+543,155,치킨필라프,15900.0,"약간매콤, 닭가슴살로 만든 건강한 필라프",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F71D1FD2D1E3A483BBA5428725E348491
+544,155,베이컨 크림 리조또,14900.0,고소하고 진한 크림소스에 졸여낸 깊은 풍미의 리조또,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FCDDF4A1E6C0B45CB806EF63C6CAE135B
+545,155,치킨버섯 크림 리조또,14900.0,닭가슴살과 모듬 버섯이 가득한 크림 리조또,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FF3955E3208B44C16890CBB4A65743CB3
+546,156,감성 그릴드 파히타,38000.0,,
+547,156,트리플 미트 파히타,41000.0,,
+548,156,쉬림프 콤보 파히타,33000.0,,
+549,156,치킨 콤보 파히타,31000.0,,
+550,156,아가베 블랙잭 퀘사디아,13000.0,,
+551,156,숏립 타코,10000.0,,
+552,156,까르니따스 베르데 브리또,13000.0,,
+553,157,비프 치즈 생크림 로제,11400.0,"볶은소고기,직접 우려낸 치킨육수,홈메이드 토마토소스＋생크림,치즈 기본 제공되는 면 스파게티생면으로 변경",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FF5E3A7D21C384B84BCEF98644B857E02
+554,157,쉬림프 수제 바질 페스토,11400.0,"새우, 홈메이드 바질페스트（잣, 캐슈낫,바질 ,올리브유,파마산 치즈） 그린빈 기본 제공되는 면 스파게티생면으로 변경",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F991125815FC149FC82EA3B2B81CE5B18
+555,157,알프레도 크림,9900.0,"직접 우려낸 치킨육수,생크림,버터,파마산&그라노파다노 치즈",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4CA090E0E1DC4796813051D525A96F1A
+556,157,비프 풍미가 좋은 라구 볼로네제,12400.0,"（소고기,토마토,레드와인 8시간 동안 끓인 소스）볼로네제 소스,올리브유,바질 기본 제공되는 면 스파게티생면으로 변경",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F480E4722FAFC47A08BB2F071B1817C4D
+557,157,클래식 라구 볼로네제 생면 라자냐,15900.0,"신선한 계란반죽으로 만든 라자냐 생면, 돼지고기, 소고기, 베이컨 홀토마토를 오랜시간 끓인 라구소스, 모짜렐라 치즈, 올리브 오일 돼지고기, 소고기, 베이컨, 홀토마토를 오랜시간 끓인 라구소스로 만든 볼로냐 스타일의 클래식 라자냐",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F8E7B1716239F4D708184A34FF94EF81D
+558,157,트러플 베이컨 바질 크림 리조또,12400.0,"트러플오일, 직접우린 치킨육수로 볶아 식감이 살아있는 찰보리, 쌀, 베이컨, 홈메이드 바질페스트（잣, 캐슈낫,바질, 올리브유,파마산 치즈）, 방울토마토, 생크림,버터,파마산&그라노파다노 치즈",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FCA7C556832204E7E8A80B4E18664E0ED
+559,157,트러플 비프 풍미가 좋은 화이트 라구,12900.0,"트러플 페이스트, 트러플오일, 소고기, 통마늘, 루꼴라, 생크림, 버터, 치즈, 직접 우려낸 치킨육수",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FD12D13AC7EAF43B5998DEADCED127401
+560,157,뽀모도로,9900.0,"홈메이드 토마토소스, 직접우린 치킨육수, 모짜렐라치즈, 방울토마토, 바질",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F013C36CE8DA249DABD6896034A40FEFF
+561,157,페투치네 생면,1500.0,넓고 납작한 모양의 페투치네는 소스가 풍부하게 묻어나는 것이 특징 1인분,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FB5EDDAFC056048B88A9C8A0C68D1240D
+562,157,링귀니 생면,1500.0,가장 대중적인 면으로 어디에도 잘 어울리는 것이 특징 1인분,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F4EF706BC35BC428E8FE35A55BC1EBB64
+563,157,트러플 베이컨 크림 리조또,12400.0,"트러플오일, 직접우린 치킨육수로 볶아 식감이 살아있는 찰보리, 쌀, 베이컨, 버섯, 생크림,버터,파마산&그라노파다노 치즈",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F9FCFF696CA174DCF8CC6952A3E791A15
+564,157,바질 페스토 부라타 치즈 청포도 카프레제 （大）,10400.0,"부라타 치즈（모짜렐라, 크림으로 만든 이탈리아 치즈）, 홈메이드 바질 페스토, 청포도, 방울토마토 large（100g）",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F7F43A847C0844F72B0D9D9AD7C2D2BD7
+565,157,홈메이드 샐러드,3900.0,"오리엔탈 드레싱, 양상추, 비타민, 병아리콩, 귀리, 방울토마토",https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FF367646E6A4443CE9269DD912AAF2DB6
+566,157,프로슈토 루꼴라 샐러드,6900.0,"프로슈토, 루꼴라, 방울토마토, 올리브유, 그라나파다노",
+567,157,수제 자몽 에이드,3000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F2D8EC1E5BA2841A1947273F8A322346F
+568,157,수제 레몬 에이드,3000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F755015FA1F92464CB91A3F850C6130EF
+569,157,콜라,2000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F26809601EFC44DA2BC2E7FF49EA9EC1A
+570,157,스프라이트,2000.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F98D1DC15FA754A23B168B2417C3CF30A
+571,157,산펠레크리노 탄산수,2500.0,,https://img1.kakaocdn.net/cthumb/local/C224x224.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FD040D06F6C56472BA183BB59E773BE26
+572,158,해산물 파스타,36000.0,,
+573,158,버섯 크림 리조또,28000.0,,
+574,158,키조개 오일파스타,29000.0,,
+575,158,암소한우안심 크림 파스타,38000.0,,
+576,158,해산물 리조또,36000.0,,
+577,158,암소한우안심 샤프란 리조또,38000.0,,
+578,158,포르치니 크림 파스타,25000.0,,
+579,158,수제소세지 토마토 파스타,27000.0,,
+580,158,바질페스토 크림 파스타,23000.0,,
+581,159,파스타,,,
+582,159,리코타샐러드,,,
+583,159,부채살스테이크,,,
+584,159,찹스테이크,,,
+585,159,크림리소토,,,
+586,159,아메리카노,,,
+587,159,돈까스,,,
+588,159,김치볶음밥,,,
+589,159,소고기볶음밥,,,
+590,159,자몽에이드,,,
+591,159,레모네이드,,,
+592,159,에이드,,,
+593,159,블루레몬에이드,,,
+594,159,캐모마일,,,
+595,159,페퍼민트,,,
+596,159,유기농녹차,,,
+597,160,마초삼겹스테이크,23900.0,,
+598,160,꽃게살로제리조또 (DINNER),15900.0,,
+599,160,갈릭치킨필라프 (DINNER),13900.0,,
+600,160,불고기피자,14900.0,,
+601,160,마초토마토파스타 (DINNER),12900.0,,
+602,160,까르보나라,12900.0,,
