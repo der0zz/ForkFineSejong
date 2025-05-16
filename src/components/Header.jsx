@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { CiSearch } from "react-icons/ci";
+import MainBanner from "./MainBanner";
 const Header = ({ onSearch }) => {
   const [searchText, setSearchText] = useState("");
   // 타이핑 시 바로 검색 시작.
@@ -22,6 +23,7 @@ const Header = ({ onSearch }) => {
         {/* 돋보기 아이콘 */}
         <CiSearch />
       </div>
+      <MainBanner />
     </header>
   );
 };

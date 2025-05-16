@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import "./MainBanner.css";
 const bannerText = [
   "식사하라. 세종처럼",
   "수업보다 중요한건 점심",
@@ -24,10 +25,6 @@ const MainBanner = () => {
     const random = Math.floor(Math.random() * bannerText.length);
     setText(bannerText[random]);
   };
-  return (
-    <div className="main-banner">
-      <div>{text}</div>
-    </div>
-  );
+  return <div className="main__banner">{text}</div>;
 };
 export default MainBanner;

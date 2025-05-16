@@ -5,7 +5,6 @@ function App() {
   return (
     <>
       <Header onSearch={(text) => console.log("검색어:", text)} />
-      <MainBanner />
     </>
   );
 }
