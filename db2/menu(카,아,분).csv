@@ -1,0 +1,424 @@
+restaurant_id,name,price,description,image_url
+1,아메리카노,4500,부드러운 질감과 은은한 단맛의 아메리카노,https://ldb-phinf.pstatic.net/20220824_115/1661326813892tbJ4e_JPEG/ADA3D5B2-B2B4-4A2C-9F06-854CC1D2E98E.jpeg
+1,라떼,5000,진한 커피 풍미가 살아있는 라떼,https://ldb-phinf.pstatic.net/20220824_135/1661326855538oQWuN_JPEG/964D5B2B-F513-4DEE-8DDC-91391F6CE1F5.jpeg
+1,바닐라빈 라떼,5500,달콤한 여운이 오래가는 바닐라빈 라떼,NULL
+1,피넛 라떼,6600,상큼한 과일 향 가득한 피넛 라떼,NULL
+1,트러플 모카 라떼,6000,깔끔한 뒷맛이 매력적인 트러플 모카 라떼,NULL
+1,밀크티,6500,밀크티의 깊은 풍미를 느껴보세요,NULL
+1,로즈힙베리 아이스티,6000,향긋한 아로마가 돋보이는 로즈힙베리 아이스티,NULL
+1,보늬밤 페어링,13000,고소한 맛이 일품인 보늬밤 페어링,https://ldb-phinf.pstatic.net/20250512_94/1747042769601z5tIX_JPEG/IMG_0789.JPG
+1,씨브리즈,5500,입 안 가득 퍼지는 풍미의 씨브리즈,NULL
+1,저스트 프룻,5500,풍부한 향과 맛이 어우러진 저스트 프룻,NULL
+1,씨브리즈,5500,부드러운 질감과 은은한 단맛의 씨브리즈,NULL
+2,마블 초콜렛 파운드,5000,진한 커피 풍미가 살아있는 마블 초콜렛 파운드,https://ldb-phinf.pstatic.net/20230817_127/1692252275402ateIw_JPEG/%BA%A3%C0%CC%C4%BF%B8%AE_%C6%C4%BF%EE%B5%E5_%C3%CA%C4%DD%B8%B4_%C6%C4%BF%EE%B5%E5_%C4%C9%C0%CC%C5%A9.jpg
+2,아메리카노,5300,달콤한 여운이 오래가는 아메리카노,https://ldb-phinf.pstatic.net/20220518_27/1652863091757iFhmX_JPEG/americano_hot.jpg
+2,카페라떼,6200,상큼한 과일 향 가득한 카페라떼,https://ldb-phinf.pstatic.net/20220518_108/1652865590891YC6x1_JPEG/latte_ice.jpg
+2,플랫 화이트,6000,깔끔한 뒷맛이 매력적인 플랫 화이트,https://ldb-phinf.pstatic.net/20220518_72/1652865413099VVFqG_JPEG/latte_hot.jpg
+2,아이스 카푸치노,6500,아이스 카푸치노의 깊은 풍미를 느껴보세요,https://ldb-phinf.pstatic.net/20220518_81/1652865640151xJKxN_JPEG/iced_cappuccino.jpg
+2,초코라떼,6800,향긋한 아로마가 돋보이는 초코라떼,https://ldb-phinf.pstatic.net/20220921_155/1663725459015ABhQi_JPEG/%28%B3%ED%C4%BF%C7%C7%29_%C3%CA%C4%DD%B7%BF.jpg
+2,레몬 마들린,3400,고소한 맛이 일품인 레몬 마들린,https://ldb-phinf.pstatic.net/20220921_190/1663726911705kcw9T_JPEG/%28%B5%F0%C0%FA%C6%AE%29%B7%B9%B8%F3_%B8%B6%B5%E9%B7%BB.jpg
+2,헤이즐넛 피낭시에,3800,입 안 가득 퍼지는 풍미의 헤이즐넛 피낭시에,https://ldb-phinf.pstatic.net/20220921_40/1663726496312ka0Yj_JPEG/%28%B5%F0%C0%FA%C6%AE%29%C7%EC%C0%CC%C1%F1%B3%D3_%C8%D6%B3%B6%BD%C3%BF%A1.jpg
+3,아메리카노,3900,달콤한 여운이 오래가는 아메리카노,https://ldb-phinf.pstatic.net/20230412_149/1681290402452SwVba_JPEG/%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB_%BF%C2%B4%F5.jpg
+3,카페라떼,3900,상큼한 과일 향 가득한 카페라떼,https://ldb-phinf.pstatic.net/20230412_185/1681290917268FG2mo_JPEG/%C4%AB%C6%E4%B6%F3%B6%BC_%BF%C2%B4%F5.jpg
+3,바닐라 라떼,4300,깔끔한 뒷맛이 매력적인 바닐라 라떼,https://ldb-phinf.pstatic.net/20230412_145/1681291795516yzWpV_JPEG/%B9%D9%B4%D2%B6%F3%B6%F3%B6%BC_%BF%C2%B4%F5.jpg
+3,패션후르츠에이드,5500,패션후르츠에이드의 깊은 풍미를 느껴보세요,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230412_96%2F1681293147200VyUsb_JPEG%2F%25C6%25D0%25BC%25C7%25C7%25C1%25B7%25ED_%25BF%25A1%25C0%25CC%25B5%25E5.jpg
+3,시즌 케이크,9500,향긋한 아로마가 돋보이는 시즌 케이크,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_20%2F1686904958755PsxMs_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25BE%25C6%25C4%25AB%25BD%25C3%25BE%25C6_%25C5%25B8%25B8%25A3%25C6%25AE_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,소금빵,3500,고소한 맛이 일품인 소금빵,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_201%2F1686904827655pRSHm_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25BC%25D2%25B1%25DD%25BB%25A7_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25C1%25A4%25B9%25E6%25C7%25FC.png
+3,버터 프레츨,4500,입 안 가득 퍼지는 풍미의 버터 프레츨,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_111%2F1686904789183XD6yk_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25B9%25F6%25C5%25CD%25C7%25C1%25B7%25B9%25C3%25FA_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,크루아상,4000,풍부한 향과 맛이 어우러진 크루아상,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_145%2F1686905651092CBTEi_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C5%25A9%25B7%25E7%25BE%25C6%25BB%25F3_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,발로나 빵오쇼콜라,4200,부드러운 질감과 은은한 단맛의 발로나 빵오쇼콜라,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_263%2F1686904731754epcgT_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25BB%25B1%25BF%25C0%25BC%25EE%25C4%25DD%25B6%25F3_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,아몬드 크루아상,4800,진한 커피 풍미가 살아있는 아몬드 크루아상,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_283%2F1686904675739H1xnB_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25BE%25C6%25B8%25F3%25B5%25E5_%25C5%25A9%25B7%25E7%25BE%25C6%25BB%25F3_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,온더 휘낭시에,3400,달콤한 여운이 오래가는 온더 휘낭시에,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_77%2F1686904421579AqndO_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C8%25D6%25B3%25B6%25BD%25C3%25BF%25A1_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,소금 초콜릿 휘낭시에,3600,상큼한 과일 향 가득한 소금 초콜릿 휘낭시에,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_136%2F1686904544793JcR4M_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25BC%25D2%25B1%25DD_%25C3%25CA%25C4%25DD%25B8%25B4_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,산딸기 크럼블 휘낭시에,3600,깔끔한 뒷맛이 매력적인 산딸기 크럼블 휘낭시에,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_68%2F1686904445400qwR7w_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25BB%25EA%25B5%25FE%25B1%25E2_%25C5%25A9%25B7%25B3%25BA%25ED_%25C8%25D6%25B3%25B6%25BD%25C3%25BF%25A1_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,레몬 글라쎄 마들렌,3400,레몬 글라쎄 마들렌의 깊은 풍미를 느껴보세요,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_23%2F1686904033371ruNr9_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25B7%25B9%25B8%25F3_%25B8%25B6%25B5%25E9%25B7%25BB_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,실론 얼그레이 마들렌,3600,향긋한 아로마가 돋보이는 실론 얼그레이 마들렌,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_210%2F1686904271124Vin1e_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25BE%25F3%25B1%25D7%25B7%25B9%25C0%25CC_%25B8%25B6%25B5%25E9%25B7%25BB_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,제주 말차 마들렌,3600,고소한 맛이 일품인 제주 말차 마들렌,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_23%2F16869042382380MfTH_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C1%25A6%25C1%25D6_%25B8%25BB%25C2%25F7_%25B8%25B6%25B5%25E9%25B7%25BB.png
+3,클래식 크럼블 마들렌,3600,입 안 가득 퍼지는 풍미의 클래식 크럼블 마들렌,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_119%2F1686904211119L2QTn_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C5%25AC%25B7%25A1%25BD%25C4_%25C5%25A9%25B7%25B3%25BA%25ED_%25B8%25B6%25B5%25E9%25B7%25BB_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,피스타치오 마들렌,3800,풍부한 향과 맛이 어우러진 피스타치오 마들렌,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_6%2F1686904182182kPXwA_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C7%25C7%25BD%25BA%25C5%25B8%25C4%25A1%25BF%25C0_%25B8%25B6%25B5%25E9%25B7%25BB_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,흑임자 마들렌,3600,부드러운 질감과 은은한 단맛의 흑임자 마들렌,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_235%2F16869041322913clYA_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C8%25E6%25C0%25D3%25C0%25DA_%25B8%25B6%25B5%25E9%25B7%25BB_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+3,더블 초콜릿 마들렌,3600,진한 커피 풍미가 살아있는 더블 초콜릿 마들렌,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230616_121%2F1686903988277dUKew_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25B4%25F5%25BA%25ED_%25C3%25CA%25C4%25DD%25B8%25B4_%25B8%25B6%25B5%25E9%25B7%25BB_%25BB%25F6%25BA%25B8%25C1%25A4%252C_%25B8%25AE%25BB%25E7%25C0%25CC%25C2%25A1.png
+4,바스크 치즈케이크 블루베리 미니홀,13000,상큼한 과일 향 가득한 바스크 치즈케이크 블루베리 미니홀,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250412_206%2F1744434940775LbRjk_JPEG%2F%25B9%25D9%25C4%25A1%25C4%25C9_%25BA%25ED%25B7%25E7%25BA%25A3%25B8%25AE_%25B9%25CC%25B4%25CF%25C8%25A6.jpeg
+4,바스크 치즈케이크 말차 조각,7500,깔끔한 뒷맛이 매력적인 바스크 치즈케이크 말차 조각,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250103_99%2F17359087802438cbsv_JPEG%2FKakaoTalk_Photo_2025-01-03-21-52-32.jpeg
+4,발로나 초코케이크 조각,7500,발로나 초코케이크 조각의 깊은 풍미를 느껴보세요,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241219_119%2F1734618474512peuwW_JPEG%2FKakaoTalk_Photo_2024-12-19-23-27-03.jpeg
+4,휘낭시에,3000,향긋한 아로마가 돋보이는 휘낭시에,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241219_265%2F17346167339833r9li_JPEG%2FKakaoTalk_Photo_2024-12-19-22-58-46_002.jpeg
+4,아인슈페너 크림라떼,7000,고소한 맛이 일품인 아인슈페너 크림라떼,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240622_296%2F1719025297181LSOR9_JPEG%2F%25BE%25C6%25C0%25CE%25BD%25B4%25C6%25E4%25B3%25CA.jpg
+4,아메리카노,5500,입 안 가득 퍼지는 풍미의 아메리카노,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240629_298%2F1719628679222WSpvx_JPEG%2F%25BE%25C6%25B8%25DE%25B8%25AE%25C4%25AB%25B3%25EB_%25B6%25DF%25BE%25C6.jpg
+4,카페라떼,6000,풍부한 향과 맛이 어우러진 카페라떼,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240622_80%2F17190253294291dRMa_JPEG%2F%25C4%25AB%25C6%25E4%25B6%25F3%25B6%25BC.jpg
+4,아이스크림라떼,8000,부드러운 질감과 은은한 단맛의 아이스크림라떼,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250416_227%2F1744794022605GiLQm_JPEG%2F%25BE%25C6%25C0%25CC%25BD%25BA%25C5%25A9%25B8%25B2%25B6%25F3%25B6%25BC.jpeg
+4,말차라떼,6000,진한 커피 풍미가 살아있는 말차라떼,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240626_270%2F1719375836836BDFeC_JPEG%2F%25B8%25BB%25C2%25F7%25B6%25F3%25B6%25BC.jpg
+4,미숫가루라떼,6000,달콤한 여운이 오래가는 미숫가루라떼,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240622_228%2F17190255662039UQkV_JPEG%2F%25B9%25CC%25BC%25FD%25B0%25A1%25B7%25E7.jpg
+4,오렌지/한라봉 에이드,7000,상큼한 과일 향 가득한 오렌지/한라봉 에이드,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240622_59%2F1719025369247Hiw3A_JPEG%2F%25BF%25C0%25B7%25BB%25C1%25F6_%25C7%25D1%25B6%25F3%25BA%25C0_%25BF%25A1%25C0%25CC%25B5%25E5.jpg
+4,수제청 레몬에이드,6500,깔끔한 뒷맛이 매력적인 수제청 레몬에이드,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240622_146%2F1719025385318eXJUq_JPEG%2F%25B7%25B9%25B8%25F3%25BF%25A1%25C0%25CC%25B5%25E5.jpg
+4,수제청 청귤에이드,7000,수제청 청귤에이드의 깊은 풍미를 느껴보세요,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240622_273%2F1719025558659ORfFs_JPEG%2F%25C3%25BB%25B1%25D6%25BF%25A1%25C0%25CC%25B5%25E5.jpg
+4,체리 히비스커스 티,6000,향긋한 아로마가 돋보이는 체리 히비스커스 티,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_5%2F1722739519376QOzvW_JPEG%2F%25C3%25BC%25B8%25AE%25C8%25F7%25BA%25F1%25BD%25BA%25C4%25BF%25BD%25BA2.jpg
+4,스윗캐모마일릴렉서,6000,고소한 맛이 일품인 스윗캐모마일릴렉서,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240622_150%2F1719025407826AeGik_JPEG%2F%25BD%25BA%25C0%25AD%25C4%25B3%25B8%25F0%25B8%25B6%25C0%25CF.jpg
+4,얼그레이,5000,입 안 가득 퍼지는 풍미의 얼그레이,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240622_253%2F1719025417269R9DzV_JPEG%2F%25BE%25F3%25B1%25D7%25B7%25B9%25C0%25CC.jpg
+4,루이보스,5000,풍부한 향과 맛이 어우러진 루이보스,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240622_1%2F1719025425436YX02A_JPEG%2F%25B7%25E7%25C0%25CC%25BA%25B8%25BD%25BA.jpg
+4,아이스티,5000,부드러운 질감과 은은한 단맛의 아이스티,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_161%2F1722740295588OJNi5_JPEG%2F%25BE%25C6%25C0%25CC%25BD%25BA%25C6%25BC.jpg
+5,말차 우유 푸딩,6500,깔끔한 뒷맛이 매력적인 말차 우유 푸딩,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250410_152%2F1744263541656v3Mic_JPEG%2FIMG_0487.jpeg
+5,모카 무스,8000,모카 무스의 깊은 풍미를 느껴보세요,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250213_225%2F1739451701265DQ6Pu_JPEG%2FIMG_9387.jpeg
+5,행운을 주는 강아지,7000,향긋한 아로마가 돋보이는 행운을 주는 강아지,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_132%2F1732154755876AIEau_JPEG%2F964B69C7-EC90-4116-A514-1B5465E8C977.jpeg
+5,러브레터 토스트,6000,고소한 맛이 일품인 러브레터 토스트,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241216_232%2F17343208259956xr4e_JPEG%2FIMG_8151.jpeg
+5,하츠 펜케이크,6000,입 안 가득 퍼지는 풍미의 하츠 펜케이크,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250212_248%2F1739337410043oSJN8_JPEG%2FIMG_9361.jpeg
+5,시리얼과 과일,7000,풍부한 향과 맛이 어우러진 시리얼과 과일,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_48%2F1718704965790BB5e6_JPEG%2F6319E1C7-C488-4645-8920-ED649D073BA6.jpeg
+5,필터 커피,6500,부드러운 질감과 은은한 단맛의 필터 커피,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_99%2F17056497577481TgNM_PNG%2F04%25BA%25EA%25B7%25E7%25C0%25D7%25C4%25BF%25C7%25C7.png
+5,아메리카노,5300,진한 커피 풍미가 살아있는 아메리카노,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_103%2F170564973338432WfS_PNG%2F01%25BE%25C6%25B8%25DE%25B8%25AE%25C4%25AB%25B3%25EB.png
+5,플랫화이트,5500,달콤한 여운이 오래가는 플랫화이트,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_43%2F1705649740399IbG36_PNG%2F02%25C7%25C3%25B7%25A7%25C8%25AD%25C0%25CC%25C6%25AE.png
+5,카페라떼,5800,상큼한 과일 향 가득한 카페라떼,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_76%2F1705649746322SlKgj_PNG%2F03%25C4%25AB%25C6%25E4%25B6%25F3%25B6%25BC.png
+5,아몬드 크림 라떼떼,6800,깔끔한 뒷맛이 매력적인 아몬드 크림 라떼,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240120_68%2F17057300032595BQvT_PNG%2F%25BE%25C6%25B8%25F3%25B5%25E5%25C5%25A9%25B8%25B2%25B6%25F3%25B6%25BC.png
+5,바닐라 아인슈페너,6800,바닐라 아인슈페너의 깊은 풍미를 느껴보세요,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_9%2F1705649781523RnBWj_PNG%2F06%25B9%25D9%25B4%25D2%25B6%25F3%25BE%25C6%25C0%25CE%25BD%25B4%25C6%25E4%25B3%25CA.png
+5,카페 오레,6800,향긋한 아로마가 돋보이는 카페 오레,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240325_280%2F17113739274070z80C_JPEG%2F%25C0%25CE%25BD%25BA%25C5%25B8%25BD%25BA%25C5%25E4%25B8%25AE_%25B4%25EB%25C1%25F6_1.jpeg
+5,말차 오레,7000,고소한 맛이 일품인 말차 오레,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240322_123%2F1711084735182vY6Lq_JPEG%2F%25C0%25CE%25BD%25BA%25C5%25B8%25BD%25BA%25C5%25E4%25B8%25AE_%25B4%25EB%25C1%25F6_1.jpeg
+5,하츠 젤리 아이스티,6500,입 안 가득 퍼지는 풍미의 하츠 젤리 아이스티,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_28%2F1705649789800vY3J9_PNG%2F08%25C7%25CF%25C3%25F7%25C1%25A9%25B8%25AE%25BE%25C6%25C0%25CC%25BD%25BA%25C6%25BC.png
+5,하츠 포션,6500,풍부한 향과 맛이 어우러진 하츠 포션,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240416_116%2F1713278589846VNTXG_JPEG%2F%25C0%25CE%25BD%25BA%25C5%25B8%25BD%25BA%25C5%25E4%25B8%25AE_%25B4%25EB%25C1%25F6_1.jpeg
+5,초콜릿 밀크,6000,부드러운 질감과 은은한 단맛의 초콜릿 밀크,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_129%2F1705649854746dOkCq_PNG%2F16%25C3%25CA%25C4%25DD%25B8%25B4%25B9%25D0%25C5%25A9.png
+5,호박차,5500,진한 커피 풍미가 살아있는 호박차,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_280%2F1705649798547nGhxH_PNG%2F09%25C8%25A3%25B9%25DA%25C2%25F7.png
+5,연근차,5500,달콤한 여운이 오래가는 연근차,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_250%2F17056498039696356G_PNG%2F10%25BF%25AC%25B1%25D9%25C2%25F7.png
+5,생강차,5500,상큼한 과일 향 가득한 생강차,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_52%2F1705649811172kcqb3_PNG%2F11%25BB%25FD%25B0%25AD%25C2%25F7.png
+5,페퍼민트 차,5500,깔끔한 뒷맛이 매력적인 페퍼민트 차,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_194%2F1705649817563WBIon_PNG%2F12%25C6%25E4%25C6%25DB%25B9%25CE%25C6%25AE%25C2%25F7.png
+6,아메리카노,4000,아메리카노의 깊은 풍미를 느껴보세요,NULL
+6,마카롱,3000,향긋한 아로마가 돋보이는 마카롱,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210107_194%2F1609990314375th91Q_JPEG%2Fv_H2yMJcnTd-qRxCi8QQz7iE.jpeg.jpg
+6,앙버터스콘,5500,고소한 맛이 일품인 앙버터스콘,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250321_121%2F1742562766711Mk73x_JPEG%2F%25BC%25E1%25A5%25E1%25A5%25E1%25B3%25E1%25A9%25E1_02.jpg
+6,누텔라오레오스콘,5000,입 안 가득 퍼지는 풍미의 누텔라오레오스콘,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250321_263%2F1742562747671mj4id_JPEG%2F%25A1%25E1%25A9%25E1%25A6%25E1%25A9%25E1%25B3%25E1%25A9%25E1_02.jpg
+6,생크림스콘,4500,풍부한 향과 맛이 어우러진 생크림스콘,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250321_295%2F1742562721227Fia86_JPEG%2F%25BC%25E1%25B3%25E1%25B5%25E102.jpg
+6,플레인스콘,4000,부드러운 질감과 은은한 단맛의 플레인스콘,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250321_237%2F17425626749743KdpJ_JPEG%2F%25A6%25E1%25B5%25E102.jpg
+6,후르츠링 쫀득쿠키,6000,진한 커피 풍미가 살아있는 후르츠링 쫀득쿠키,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250321_195%2F1742562635491XvcQE_JPEG%2F%25BC%25E1%25A9%25E1%25A8%25E102.jpg
+6,로투스 쫀득쿠키,6000,달콤한 여운이 오래가는 로투스 쫀득쿠키,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250321_271%2F1742562604288al7cS_JPEG%2F%25AB%25E1%25B3%25E1_02.jpg
+6,오레오 쫀득쿠키,6000,상큼한 과일 향 가득한 오레오 쫀득쿠키,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250321_66%2F17425625729965dnXs_JPEG%2F%25AB%25E1%25B3%25E1_02.jpg
+6,프레첼머랭,4500,깔끔한 뒷맛이 매력적인 프레첼머랭,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230710_180%2F1688985682566v3n1M_JPEG%2FScreenshot_20230515-221421_NAVER.jpg
+6,머랭쿠키,4000,머랭쿠키의 깊은 풍미를 느껴보세요,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230710_213%2F1688985648988lhTT4_JPEG%2FScreenshot_20230515-221441_NAVER.jpg
+6,플레인크로플,3800,향긋한 아로마가 돋보이는 플레인크크로플,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230707_238%2F1688730794197DKMue_JPEG%2F%25C4%25AB%25C6%25E4%25B7%25D5%25B9%25E8%25B4%25DE%25C0%25C7%25B9%25CE%25C1%25B7%25BF%25EB_%25284%2529.jpg
+6,로투스크로플,4500,고소한 맛이 일품인 로투스크로플,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230707_70%2F16887307646083VqzW_JPEG%2F%25C4%25AB%25C6%25E4%25B7%25D5%25B9%25E8%25B4%25DE%25C0%25C7%25B9%25CE%25C1%25B7%25BF%25EB_%25286%2529.jpg
+6,초코오레오크로플,4500,입 안 가득 퍼지는 풍미의 초코오레오크로플,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230707_13%2F1688730737506jCH8M_JPEG%2F%25C4%25AB%25C6%25E4%25B7%25D5%25B9%25E8%25B4%25DE%25C0%25C7%25B9%25CE%25C1%25B7%25BF%25EB_%25287%2529.jpg
+7,잠봉버터바게트,19000,향긋한 아로마가 돋보이는 잠봉버터바게트,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250314_6%2F1741928443965OxGqQ_JPEG%2FKakaoTalk_20250314_131236270.jpg
+7,카이막 크래커,17000,고소한 맛이 일품인 카이막 크래커,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250313_172%2F1741853966418kHk22_JPEG%2FKakaoTalk_20250313_170209760_02.jpg
+7,에스프레소,4500,입 안 가득 퍼지는 풍미의 에스프레소,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_242%2F17331959308147xg1k_JPEG%2FKakaoTalk_20241203_121616163.jpg
+7,브라운치즈크로플,9500,풍부한 향과 맛이 어우러진 브라운치즈크로플,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230420_235%2F1681962134509aByx3_JPEG%2FLLP_2171_%25BA%25B9%25BB%25E7.jpg
+7,수제 티라미수,9000,부드러운 질감과 은은한 단맛의 수제 티라미수,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240314_140%2F1710417488076Bk63V_JPEG%2FKakaoTalk_20240314_205701487.jpg
+7,마시멜로우초코,8500,진한 커피 풍미가 살아있는 마시멜로우초코,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_37%2F1734239126019KkKry_JPEG%2FKakaoTalk_20241215_140431935.jpg
+7,스페셜 드립 커피,8000,달콤한 여운이 오래가는 스페셜 드립 커피,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250313_219%2F17418400811841r3g8_JPEG%2FKakaoTalk_20241217_133146697.jpg
+7,라떼,6000,"다크초코, 구운 과일, 깊은 풍미의 스페셜티 커피빈 100%",https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_199%2F1733375948998DUhpk_JPEG%2FKakaoTalk_20241205_141658065.jpg
+7,흑임자샷라떼,7500,깔끔한 뒷맛이 매력적인 흑임자샷라떼,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_281%2F1710837745913UmUGY_JPEG%2FKakaoTalk_20240319_174059760.jpg
+7,블랙러시안,12000,블랙러시안의 깊은 풍미를 느껴보세요,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220812_1%2F1660295236342pfX72_JPEG%2FKakaoTalk_20220812_165627811.jpg
+8,아메리카노,4000,고소한 맛이 일품인 아메리카노,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210712_136%2F1626023703830h8IXI_JPEG%2Fo_0NMDHRsNFyH-oOgmOZvGYj.jpg
+8,에스프레소,4000,입 안 가득 퍼지는 풍미의 에스프레소,NULL
+8,콜드브루 아메리카노,5000,풍부한 향과 맛이 어우러진 콜드브루 아메리카노,NULL
+8,라떼,5000,부드러운 질감과 은은한 단맛의 라떼,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNTA1MTJfMTkx%2FMDAxNzQ3MDUwODk3OTA1.Xbe3RhbCzLYWhQxhUl_qq6lHLM_He9ZxhZzxs8x9RwIg.UCHHdb9kAFxYNHZDkL7TSghuGi_q39dpZTPzP-ECh6gg.JPEG%2F20250328_124300.jpg.jpg%3Ftype%3Dw1500_60_sharpen
+8,바닐라라떼,5500,진한 커피 풍미가 살아있는 바닐라라떼,NULL
+8,크림 콜드브루,6000,달콤한 여운이 오래가는 크림 콜드브루,NULL
+8,메가톤 크림라떼,6000,상큼한 과일 향 가득한 메가톤 크림라떼,NULL
+8,자유에이드,5500,깔끔한 뒷맛이 매력적인 자유에이드,NULL
+8,레드오렌지 유자차,5000,레드오렌지 유자차의 깊은 풍미를 느껴보세요,NULL
+8,루이보스 슈가플럼,5000,향긋한 아로마가 돋보이는 루이보스 슈가플럼,NULL
+8,브라운치즈 크로플,5000,고소한 맛이 일품인 브라운치즈 크로플,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNTA0MTNfMjM5%2FMDAxNzQ0NTQ2OTAzODAy._bvFk4ZjwZI-SB-KaY3skW_lcJlQIlY9Q3edLsB73UQg.wyYl7kOn7cTHMHi3CcwIsbzRVTMdnkmuJahemlvi-Ecg.JPEG%2F20250413_182501.jpg.jpg%3Ftype%3Dw1500_60_sharpen
+8,두완츠 내추럴,7000,입 안 가득 퍼지는 풍미의 두완츠 내추럴,NULL
+8,아도르시 무산소 내추럴,6000,풍부한 향과 맛이 어우러진 아도르시 무산소 내추럴,NULL
+8,비야 베틀라야 허니,7000,부드러운 질감과 은은한 단맛의 비야 베틀라야 허니,NULL
+9,브렛 라떼,5500,입 안 가득 퍼지는 풍미의 브렛 라떼,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250320_75%2F1742453346061G2ejS_JPEG%2F1000017930.jpg
+9,핸드르립,5500,풍부한 향과 맛이 어우러진 핸드르립,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231101_230%2F1698832149856C4NrS_JPEG%2Ftemp_file.jpg
+9,바스크치즈케이크,6500,부드러운 질감과 은은한 단맛의 바스크치즈케이크,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230201_164%2F16752586775282idLA_JPEG%2F36BD149D-53F9-4BA4-8AF5-C98ED9B1CB60.jpeg
+9,휘낭시에,2300,진한 커피 풍미가 살아있는 휘낭시에,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250424_264%2F1745483300932yE8Rr_JPEG%2F1000019016.jpg
+9,아메리카노,3800,달콤한 여운이 오래가는 아메리카노,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230201_110%2F1675258616446xNMaw_JPEG%2F5C58CAC7-C0BC-4FD0-8E12-051FC438CD64.jpeg
+9,피칸 초코칩 쿠키,3000,상큼한 과일 향 가득한 피칸 초코칩 쿠키,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230201_159%2F1675259004145Pc3Cb_JPEG%2FB29FA9D1-5096-4E0A-986C-98067598A4EB.jpeg
+9,로투스 스모어 쿠키,3000,깔끔한 뒷맛이 매력적인 로투스 스모어 쿠키,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230629_135%2F1688022450924zJVt0_JPEG%2F1688022278317.jpg
+9,디카페인,5500,디카페인의 깊은 풍미를 느껴보세요,NULL
+10,아메리카노,3500,풍부한 향과 맛이 어우러진 아메리카노,NULL
+10,플랫 화이트,4000,부드러운 질감과 은은한 단맛의 플랫 화이트,NULL
+10,헤이즐넛 아메리카노,5500,진한 커피 풍미가 살아있는 헤이즐넛 아메리카노,NULL
+10,바닐라라떼,4500,달콤한 여운이 오래가는 바닐라라떼,NULL
+10,돌체라떼,4500,상큼한 과일 향 가득한 돌체라떼,NULL
+10,비엔다,4000,깔끔한 뒷맛이 매력적인 비엔다,NULL
+10,감귤 에이드,5000,감귤 에이드의 깊은 풍미를 느껴보세요,NULL
+10,청포도 에이드,5000,향긋한 아로마가 돋보이는 청포도 에이드,NULL
+10,쑥 라떼,4500,고소한 맛이 일품인 쑥 라떼,NULL
+10,리얼 더블초코,5000,입 안 가득 퍼지는 풍미의 리얼 더블초코,NULL
+10,골든 아쌈 밀크티,5000,풍부한 향과 맛이 어우러진 골든 아쌈 밀크티,NULL
+10,차이 밀크티,5300,부드러운 질감과 은은한 단맛의 차이 밀크티,NULL
+10,도라지 꿀배차,5000,진한 커피 풍미가 살아있는 도라지 꿀배차,NULL
+10,딸기라떼,5500,달콤한 여운이 오래가는 딸기라떼,NULL
+10,망고패션 후르츠,4500,상큼한 과일 향 가득한 망고패션 후르츠,NULL
+10,폴링 인 로즈,4500,깔끔한 뒷맛이 매력적인 폴링 인 로즈,NULL
+10,민트초코,5000,민트초코의 깊은 풍미를 느껴보세요,NULL
+10,산딸기스콘,5500,향긋한 아로마가 돋보이는 산딸기스콘,NULL
+10,단호박 케이크,5500,고소한 맛이 일품인 단호박 케이크,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDA5MjNfNDcg%2FMDAxNzI3MDY4MjI3Mjc3.tViWfOu1nJhmiJp3D5FhCZUy7S8YlBY8eraaKAzMKkkg.a9chfabwK96JaYaO_GKDAdmTkcu8i793l8gAjD-jvDgg.JPEG%2F1000020665.jpg.jpg%3Ftype%3Dw1500_60_sharpen
+11,고기 빠오즈(8개),8000,맛있는 고기 빠오즈,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221113_279%2F1668323664644zsJDP_JPEG%2FE4275242-6EDA-4A77-B9AE-A1FD7BFC677F.jpeg
+11,새우지짐만두(9개),9000,바삭하게 튀겨낸 만두 요리,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221113_203%2F16683236390766KHtW_JPEG%2F50EEAAD0-940B-45ED-96EF-D4F92E2E3881.jpeg
+11,부추지짐(9개),9000,맛있는 부추지짐,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221113_185%2F1668323616069e9VLw_JPEG%2FCEE2EED2-9BD7-4B27-BCA8-0A387979057D.jpeg
+11,부추 빠오즈(8개),8000,맛있는 부추 빠오즈,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221113_264%2F1668323685945U0T9Q_JPEG%2FF60EBF52-1937-436F-8FAC-063200D60368.jpeg
+11,훈둔면,8500,맛있는 훈둔면,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221113_6%2F1668323708826lKeKd_JPEG%2F57BDE64B-B842-4CD7-877F-08191AF48E57.jpeg
+11,매운훈둔면,9000,맛있는 매운훈둔면,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221113_255%2F1668323730820jxGSg_JPEG%2F03FA7D3E-33AA-46C6-B47C-617C21E7B811.jpeg
+11,삼선빠오즈(8개),8000,맛있는 삼선빠오즈,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221113_162%2F166832374827970thm_JPEG%2FB057231D-4BD9-4051-941A-B43F3B7FFCCB.jpeg
+11,쓰촨딴딴면,8500,맛있는 쓰촨딴딴면,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221113_258%2F1668323771980uRjRX_JPEG%2F049F8EEE-5E5F-430F-B31F-8393CFED568F.jpeg
+12,모듬쌀국수,11000,진한 육수와 신선한 허브가 어우러진 쌀국수,http://imagefarm.baemin.com/smartmenuimage/upload/image/2024/1/2/BcJ9vWkMKu-79Ej9EmAjKMbTVrPlq8o7KTDgvbvoG3un4-7R64Vblt_3qKyrX9A3FTFY7CoaXyK7uOV8XIN6my2takYAAUmxnr5bJsDNkDw=.jpg
+12,분짜,11900,상큼달콤한 소스가 매력적인 베트남식 분짜,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/3/22/hlgTXo8HDRp5HhQ1EIDOhWoXRznUlbYn5IYRGgqgs7Fj-mII4ruSHXgw9q4Xb8sOURT8k2DkPfspemaaE1NjkA4etlg2rBJe0UKgVHUwHko=.jpg
+12,분버후에,12000,"파인애플,레몬그라스,피쉬소스로 만든 국물로 매콤,달콤해요",http://imagefarm.baemin.com/smartmenuimage/upload/image/2024/1/2/ktTXNEM5YVqmtomA7FvUTPK78j41JTurXlIB9OxbIXl-3g0JsD6T6dUL7RL6rgCpckf44ROAPisFbNmu-CtgHdDYyY-n5fsfl18cfIIf6nE=.jpg
+12,반미 바대,8500,"고기,간,우유,버터등...으로 만든 바대와 야채 가 들어간 바대반미",http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/3/22/3hhbJtWt6xcLqQTEIBMfd-RLMTo9VDoD4iXSmMZnTnc_nEueNAU172Fs7zcFiSdZ8xqiVlpgLUOyIlX_xli-UT8iQE2t_TU9VhGiSkIhmnM=.jpg
+12,분타이,12000,맛있는 분타이,NULL
+12,소분다우,12500,맛있는 소분다우,NULL
+12,넴루이,14000,소시지 모양으로 만든 돼지고기를 레몬 그라스 막대에 꽂아 숯불에 구워서 만들어요.,http://imagefarm.baemin.com/smartmenuimage/upload/image/2024/1/2/Eb1K8DG6OO3SAD2hJf1LEFco9qAtmedHB-UQHUkmWu5CJXpPtaWyT01ih1dB1KSqvMYsIZ2C2_OSw22mI2KOctBTBPbuYpKFWsm51xoFgaE=.jpg
+12,소고기 면 볶음,10900,맛있는 소고기 면 볶음,NULL
+12,닭고기 쌀국수,10000,진한 육수와 신선한 허브가 어우러진 쌀국수,http://imagefarm.baemin.com/smartmenuimage/image_library/20221214/r_20221214_247.jpg
+12,고기 반미,8500,"고기,계란,야채,오이가 들어간 반미",http://imagefarm.baemin.com/smartmenuimage/upload/image/2022/10/31/P9OMlxzDcA5CqWgDUd7mkQWKQFFSyiEF0JYzGA3oNypWIKCsJgcrogncy3xm1-lfKSiwopgoc8g0y75N5BsdEQ==.jpg
+12,반쎄우,14000,맛있는 반쎄우,http://imagefarm.baemin.com/smartmenuimage/image_library/20210531/r_20210531_1041.jpg
+12,김치볶음밥,10000,"베트남 김치,소고기를 넣어서 만든 볶음밥",http://imagefarm.baemin.com/smartmenuimage/upload/image/2022/10/31/fpiMLqdVIcle3iAjjPPR1_n37RHCQirF_EkyIybDPrJD8ABtrIeeJoG02NxGhywKy3qvXUyUxUMTE0Ei5TpUpg==.jpg
+12,새우덮밥,10500,싱싱한 새우와 맛있는 소스를 곁들인 덮밥,http://imagefarm.baemin.com/smartmenuimage/upload/image/2022/10/31/2XUYfL0n67QtvVM8Aqnu7DjyINYOGKtI6ZPq_iYvlF5DhxjurXkMo73rxhjss_I6WSAc7ltz1UTSXU3uCprMyg==.jpg
+12,짜조,8000,바삭하게 튀겨낸 만두 요리,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/3/22/P1h99hOlzkcO8RzYI8Mz3KE8mSel09nGeoW2-EBbJ7mFP7z8zaKgXALnxBKLZ3VP1zhhiJVD2D-LGnTsNMghyh1fMbkV8LbCb3_rD2CQcm4=.jpg
+12,월남쌈,3000,신선한 재료를 직접 싸먹는 베트남식 월남쌈,NULL
+13,돈까스 카레,11000,향신료가 어우러진 진한 카레,https://naverbooking-phinf.pstatic.net/20240213_276/1707831500389flQNX_JPEG/P1013672.JPG
+13,허브치킨 카레,10000,향신료가 어우러진 진한 카레,https://naverbooking-phinf.pstatic.net/20240213_276/1707832364270gHtcw_JPEG/P1013641.JPG
+13,기본카레+에그셋트,11500,향신료가 어우러진 진한 카레,https://naverbooking-phinf.pstatic.net/20240213_29/1707828950112WT0pA_JPEG/P1013654.JPG
+13,우삼겹 카레,12000,향신료가 어우러진 진한 카레,https://naverbooking-phinf.pstatic.net/20240213_117/17078312807915hzMj_JPEG/P1013674.JPG
+13,통새우 카레,10000,향신료가 어우러진 진한 카레,https://naverbooking-phinf.pstatic.net/20240213_80/17078322636023PAa0_JPEG/P1013643.JPG
+13,우삼겹 카레 +에그셋트,15500,향신료가 어우러진 진한 카레,https://naverbooking-phinf.pstatic.net/20240211_258/1707645904943jWlIp_JPEG/P1013656.JPG
+13,돈까스 카레 +에그셋트,14500,향신료가 어우러진 진한 카레,https://naverbooking-phinf.pstatic.net/20240213_285/1707813882656QxzD8_JPEG/P1013660.JPG
+13,허브치킨 카레 +에그셋트,13500,향신료가 어우러진 진한 카레,https://naverbooking-phinf.pstatic.net/20240213_116/1707828520265SIm9X_JPEG/P1013658.JPG
+13,기본카레 +에그셋트,11500,향신료가 어우러진 진한 카레,https://naverbooking-phinf.pstatic.net/20240213_29/1707828950112WT0pA_JPEG/P1013654.JPG
+14,가솟방,9900,까베넷 소비뇽 레드와인과 진한 토마토 소스를 사골육수에 오랫동안 끓여낸 베트남 닭고기 스프,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240802_282%2F1722582930915Hw1qD_JPEG%2FgnoTG29_lsaSfg1oBsYHh4ubiM_4d8IN_4icBaPpz6M8o2UQ-GJayd-w5bnB4WgJ.jpg
+14,매콤 쯔란 반미 신드위치,9300,오랜 연구 끝에 개발한 시그니처 메뉴 매콤한 쯔란에 버무려진 불맛 가득한 석쇠불고기가 가득,https://ldb-phinf.pstatic.net/20240802_64/1722582541569YWLl1_JPEG/%C5%A9%B1%E2%BA%AF%C8%AF%C2%EA%B6%F5%BA%D2%B0%ED%B1%E2.jpg
+14,매콤 불곱창 반미 샌드위치,9300,매콤한 불곱창의 불향과 향긋한 깻잎이 만나 반미 샌드위치를 가득 채운다,https://ldb-phinf.pstatic.net/20240802_27/1722582591214KYVwP_JPEG/%B9%DD%B9%CC%28%BA%D2%B0%F6%C3%A2%29-%C5%B0%BF%C0%BD%BA%C5%A9.jpg
+14,리얼 우유 생크림 바게트,4600,리얼 우유 생크림이 바게트 안에 가득,https://ldb-phinf.pstatic.net/20240802_159/1722583106462QHHqU_PNG/%BB%FD%C5%A9%B8%B2%B9%D9%B0%D4%C6%AE_%B4%A9%B3%A2.png
+14,베트남 연유 커피,3500,달콤한 연유와 진한 커피의 향을 베트남이 아닌 한국에서 만나다,https://ldb-phinf.pstatic.net/20240802_17/1722583046989PGLjw_JPEG/%BF%AC%C0%AF%C4%BF%C7%C7.jpg
+14,쫄깃 델리 곱창 반미 샌드위치,9300,달콤 매콤 쫄깃한 데리야끼 곱창과 향긋한 깻잎이 만난 반미 샌드위치,https://ldb-phinf.pstatic.net/20240802_211/1722582647413OH7pM_JPEG/%B9%DD%B9%CC%28%B5%A8%B8%AE%B0%F6%C3%A2%29-%C5%B0%BF%C0%BD%BA%C5%A9.jpg
+14,코코넛 쉬림프 반미 샌드위치,8400,고소한 새우튀김에 더욱 고소한 코코넛이 가득 올라간 반미 샌드위치,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240802_99%2F17225833483565KIXs_PNG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C4%25DA%25C4%25DA%25B3%25D3%25BD%25AC%25B8%25B2%25C7%25C1_%25C3%25D6%25C1%25BE%25BC%25F6%25C1%25A4%25BA%25BB.png
+14,에그마요 반미 샌드위치,7500,[비건] 직접 만든 특제 에그마요가 가득 들어간 중독의 반미 샌드위치,https://ldb-phinf.pstatic.net/20240802_70/1722582765196vo6iI_JPEG/%BF%A1%B1%D7%B8%B6%BF%E4_.jpg
+14,발효  앙버터 반미 바게트,5400,뉴질랜드산 발효버터와 식감 좋은 달콤 팥이 베트남 반미 바게트에 담기다,https://ldb-phinf.pstatic.net/20240802_66/17225834059702cQmf_PNG/%BE%D3%B9%F6%C5%CD.png
+14,야채롤 튀김과 새우칩,2900,3피스 야채 춘권 튀김과 칠리소스 그리고 새우칩,https://ldb-phinf.pstatic.net/20240802_270/1722582833127KPvph_JPEG/%C3%E1%B1%C7.jpg
+14,코코넛 달콤 믹스 과일,4600,코코넛과 연유 망고 용과 그리고 파인애플의 조화,https://ldb-phinf.pstatic.net/20240802_3/1722582883518iEq5y_JPEG/%B0%FA%C0%CF.jpg
+15,양지 쌀국수,10000,진한 육수와 신선한 허브가 어우러진 쌀국수,NULL
+15,팟타이 해물 볶음,13500,새콤달콤한 태국식 볶음국수 팟타이,NULL
+15,월남쌈,20000,신선한 재료를 직접 싸먹는 베트남식 월남쌈,NULL
+15,짜조,6000,바삭하게 튀겨낸 만두 요리,NULL
+15,스프링롤,6000,맛있는 스프링롤,NULL
+15,고구마 치즈춘권,4500,맛있는 고구마 치즈춘권,NULL
+15,코코넛 새우(,6000,탱글한 새우의 풍미가 살아있는 요리,NULL
+15,새우연필춘권(,4000,탱글한 새우의 풍미가 살아있는 요리,NULL
+15,닭봉튀김(,4000,맛있는 닭봉튀김(,NULL
+15,콤보 쌀국수,12000,진한 육수와 신선한 허브가 어우러진 쌀국수,NULL
+15,양지 똠양쌀국수,11000,진한 육수와 신선한 허브가 어우러진 쌀국수,NULL
+15,매운 토마토 쌀국수,12000,진한 육수와 신선한 허브가 어우러진 쌀국수,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNTAzMjBfMjY2%2FMDAxNzQyNDAxMzczNDMx.TR6XrBFy1o1fPetA_WsQ8EHKUqIfOZRjhTpaDf9MupMg.oh-6wjaCgJoeHbuaABdZFbgnkgBJ9gEDoXOczwrZf5Ug.JPEG%2F5455AD09-69B8-4F6B-B8C2-E55C8D9BD17A.jpeg%3Ftype%3Dw1500_60_sharpen
+15,소고기샤브 쌀국수,13000,진한 육수와 신선한 허브가 어우러진 쌀국수,NULL
+15,매운 해산물 쌀국수,13000,진한 육수와 신선한 허브가 어우러진 쌀국수,NULL
+15,새우완탕 쌀국수,13000,진한 육수와 신선한 허브가 어우러진 쌀국수,NULL
+15,분보싸오,13000,맛있는 분보싸오,NULL
+15,칠리스파이시 볶음면,13000,맛있는 칠리스파이시 볶음면,NULL
+15,치킨 어니언 볶음면,12000,맛있는 치킨 어니언 볶음면,NULL
+15,스위트 쉬림프 볶음면,13000,맛있는 스위트 쉬림프 볶음면,NULL
+15,파인애플 볶음밥,12000,맛있는 파인애플 볶음밥,NULL
+15,나시고랭,12000,인도네시아식 향신료 가득한 볶음밥,NULL
+15,쏘이옌식 소고기덮밥,11000,맛있는 쏘이옌식 소고기덮밥,NULL
+16,분짜,13900,상큼달콤한 소스가 매력적인 베트남식 분짜,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/6/19/wxob-H2HKjr9KS_BvyF_HNMyzu59F4LMb1F6SkDo8qDAJcE3029yWmDzfRAHzcwj.jpg
+16,소고기 쌀국수,8900,진한 육수와 신선한 허브가 어우러진 쌀국수,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/6/19/wxob-H2HKjr9KS_BvyF_HHcObL5kYXH09mBudgkyygf9SQnGv6Gw7n7IAALt0Pf4.jpg
+16,사이공 볶음면(매콤한맛),8900,맛있는 사이공 볶음면(매콤한맛),http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/6/19/wxob-H2HKjr9KS_BvyF_HJ0wJeN2pHh82vFQQJpFJU9YtQ9qSvwKEWbFYYOiC5h6.jpg
+16,사이공 볶음밥,8900,맛있는 사이공 볶음밥,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/6/19/wxob-H2HKjr9KS_BvyF_HG9T7uH4ZWDFs3UBEL2sx-rHBD9WF-BDdPpqR6UMnTtm.jpg
+16,새우볼,6000,탱글한 새우의 풍미가 살아있는 요리,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/6/19/wxob-H2HKjr9KS_BvyF_HFvUOe1KOYSap2LySAAMaoDUMALtxeR95RmVVvOkRa3S.jpg
+16,딤섬,5000,맛있는 딤섬,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/6/19/wxob-H2HKjr9KS_BvyF_HELAWzqO2n2_auCUu-UkXYb2M4Creyvb1aNCEtAfPCcw.jpg
+16,곱창쌀국수,11900,진한 육수와 신선한 허브가 어우러진 쌀국수,NULL
+16,반미,7900,바삭한 빵 속 고소한 재료가 어우러진 베트남식 샌드위치,NULL
+16,냉쌀국수,9900,진한 육수와 신선한 허브가 어우러진 쌀국수,NULL
+16,얼큰 쌀국수,8900,진한 육수와 신선한 허브가 어우러진 쌀국수,NULL
+16,껌숭(숯불돼지덮밥),9900,맛있는 껌숭(숯불돼지덮밥),NULL
+16,새우볶음밥,8900,탱글한 새우의 풍미가 살아있는 요리,NULL
+16,돈까스덮밥,8900,맛있는 돈까스덮밥,NULL
+16,멘보샤,4000,맛있는 멘보샤,NULL
+16,감자말이새우튀김,6000,탱글한 새우의 풍미가 살아있는 요리,NULL
+16,짜조,2000,바삭하게 튀겨낸 만두 요리,NULL
+16,치킨봉,4000,맛있는 치킨봉,NULL
+16,쉬림프롤,5000,맛있는 쉬림프롤,NULL
+16,웨딩쇼마이,4500,맛있는 웨딩쇼마이,NULL
+17,수제 짜조(3개),3000,바삭하게 튀겨낸 만두 요리,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/TSAT2SYlL0NAs_vZwRmFvAvZ03ToNciJ-zLNOAVCB4HdNcYcVgXa9TRW0edbqGLC5adC2xHs5tV0nQor4nVFhl0Aka5TIZ8YAU1F3Ob2XIo=.jpg
+17,돼지갈비 반미,9500,바삭한 빵 속 고소한 재료가 어우러진 베트남식 샌드위치,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/a4W54xjE8WWiTu2oxQ5hPkzbdnT9IUN0hsXOqMezGR-b7SH-K-ry_dsLpG4EYk64SCgndLBSSkQQFnjNKR34PGIJtkwOgoV1lZqjAjg2q5A=.jpg
+17,왕새우 나시고랭,12500,인도네시아식 향신료 가득한 볶음밥,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/2yfHvf9tDEcfBNmj81hu86k4VStVw7WhI6XGzbe2yHlTss3BChyxx3KfmZJ5lMa_.jpg
+17,왕갈비쌀국수,16000,진한 육수와 신선한 허브가 어우러진 쌀국수,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/0FIKJ7h5eARlP9lxR4q2X8tfMHR0V3JPJspUISEi0ljIFkaAIqs01o41QrQMD1H-QQ8q76yfzqY22O9oUnHT3MnsaSUKIOyuKAcd1b7odx4=.jpg
+17,소프트쉘 크랩 칠리볶음,31000,맛있는 소프트쉘 크랩 칠리볶음,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/58sPgz8w_-IajYJhdhmVwKRh2tsN2EpRiQmd25tcTcK8OvGjAHTjBh8ksPWNt6oEZs3WkBFgd-3Ed_bS0w5qDKUBvgt6Q3t7GVuVH0hj1fM=.jpg
+17,템템쌀국수,11500,진한 육수와 신선한 허브가 어우러진 쌀국수,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/YZh7xWMeiBE1nwErXbdvg9ulFwSQJw5Zl2I3JtcNayQmiiU4RnOimRJC8wKdnvxIl4ezNPu71LpA-JLWaaifrBeWurMdLTY2KuYFggnZmKg=.jpg
+17,직화 양지쌀국수,13000,진한 육수와 신선한 허브가 어우러진 쌀국수,http://imagefarm.baemin.com/smartmenuimage/upload/image/2025/1/7/G9m-0DNI5FPifbs0rq9dYO0HhO6zHcWBlYSS6mKvalOIONH97pVc-q9VxNu55Fu-GjVgxJNTqtj9gxz5ofMXNg==.jpg
+17,스페셜쌀국수,13500,진한 육수와 신선한 허브가 어우러진 쌀국수,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/HRD_-647lHraVIOdLEBRk8yUJ_nLT_81rO6fdRUdlpGwzktdVG8RMlDEvo9BOmOVB-Pbz1EqpwOgcvhCX0H41RhHXb_kp3O9iUmTXqYJx4Y=.jpg
+17,점보 닭살국수,13500,맛있는 점보 닭살국수,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/kPUmSs14xdfzMQ0Em4b45M83OOHzEQSKgjqiqzzNQa0CiRLbmdB2rJYM3CeeYKbmIbMV_95JJEn-DJvgAD0GYAcq3WHa5PJK46O3UpTSbAY=.jpg
+17,분보싸오,13500,베트남 소고기 비빔면,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/5/17/PU4ZWfPU2RqQ7lVN7VZbxdZyLO19dUP6PXgMLwhKw0-S__KWo_gzWjrhlWLZMOqd.jpg
+17,왕새우 팟타이,13500,새콤달콤한 태국식 볶음국수 팟타이,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/4/24/phat%20thai1_100001_870.jpg
+17,소고기 팟타이,13500,새콤달콤한 태국식 볶음국수 팟타이,http://imagefarm.baemin.com/smartmenuimage/image_library/20210422/r_120.jpg
+17,고구마짜조,6000,바삭하게 튀겨낸 만두 요리,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/4/24/cha%20gio1_095018_870.jpg
+17,감자말이 새우튀김,5000,탱글한 새우의 풍미가 살아있는 요리,http://imagefarm.baemin.com/smartmenuimage/upload/image/2025/1/7/UDoDICaju8K9H96OpDoFLJdJs1CIwlk01Z7fovr_jVx6WUWe3EMdt9bg-gZQ85l6t6zxvAmL83XKfDCS0CwHNQ==.jpg
+17,스프링롤,2000,맛있는 스프링롤,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/vYewxh6iIAki-Ryf93oNlBwuDogfK1CtGcVxfCIvrua4ptpiESuArNt7WJgeQPfySY6qnQL9ZiKRwE3A9MriNB0X6kgTiSrHJDOro8Ju9ss=.jpg
+17,에그 반미,9500,바삭한 빵 속 고소한 재료가 어우러진 베트남식 샌드위치,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/a4W54xjE8WWiTu2oxQ5hPkzbdnT9IUN0hsXOqMezGR-b7SH-K-ry_dsLpG4EYk64SCgndLBSSkQQFnjNKR34PGIJtkwOgoV1lZqjAjg2q5A=.jpg
+17,넴루이 반미,9500,바삭한 빵 속 고소한 재료가 어우러진 베트남식 샌드위치,NULL
+17,칠리새우 반미,9500,바삭한 빵 속 고소한 재료가 어우러진 베트남식 샌드위치,NULL
+17,소고기 반미,9500,바삭한 빵 속 고소한 재료가 어우러진 베트남식 샌드위치,NULL
+17,느억맘 새우 볶음밥,11500,탱글한 새우의 풍미가 살아있는 요리,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/t5bgYnQEWCkUkCkwHfGhdJgDG72jpYVp1pIwRA80qDjurVW3tvXFDBoWUtXLd4iHtQdL9BeeK9gEcFeXA5Kv73zFcJVPB1AGaZxpqpe7gCw=.jpg
+17,점보닭다리 나시고랭,12500,인도네시아식 향신료 가득한 볶음밥,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/4bCYJYDJN9VHSRYiytD5DRRH8AXuON3sps3NM2YMk5o3TEY3nFDsP8-wBCyYkQj4.jpg
+17,돼지고기 덮밥 검스언,12500,맛있는 돼지고기 덮밥 검스언,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/JfaFnUgmQnqeJ57qxTjO-3La7FscfoSuD8Av4S1XO8rcWaYJHbrbHcknkjE1Sqi18g6hfbQAND-DrtZs1fsaqsF5ObVpcVhxLwPr3el-TYc=.jpg
+17,새우파인애플 볶음밥,12500,탱글한 새우의 풍미가 살아있는 요리,http://imagefarm.baemin.com/smartmenuimage/upload/image/2024/12/2/ueVuXeivH0mVHxcdv5MAsYKPgIXQaSJcQycHhdlfReDPVsMfFz4HmW3surJ40yeDKmHT1JskPS3kuHtbXUFsaw==.jpg
+17,마늘 새우 칠리 볶음,29000,탱글한 새우의 풍미가 살아있는 요리,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/kFfyxwDGerAiMgnKBwPHFqYf6GP6c0YTDpnD44XJhQ15Adwusefu1GXIlztmA7BnkpSoUiVajVHvDZ5mP248cXT0VI2hxmAcLA1tuaWdEnc=.jpg
+17,직화 분짜,17000,상큼달콤한 소스가 매력적인 베트남식 분짜,http://imagefarm.baemin.com/smartmenuimage/upload/image/2023/4/26/A_mqH96xuSybSZUQ0rBrxzShAPZ5dfu-lriDDJgZV_-qa3vaQfWmkxE8jRAiMWuFs27D1IaejtfbdYxcXCjXstP1_nyW1FIJOcb09OQ27-c=.jpg
+18,분짜,18000,상큼달콤한 소스가 매력적인 베트남식 분짜,https://ldb-phinf.pstatic.net/20220206_38/1644077509107gjfY7_JPEG/%BA%D0%C2%A5.jpg
+18,고기듬뿍쌀구수,13000,맛있는 고기듬뿍쌀구수,https://ldb-phinf.pstatic.net/20220206_204/1644077488983NhCSd_JPEG/%B0%ED%B1%E2%B5%EB%BB%D2_%BD%D2%B1%B9%BC%F6.jpg
+18,왕갈비 쌀국수,15000,진한 육수와 왕갈비비가 어우러진 쌀국수,https://ldb-phinf.pstatic.net/20220206_215/1644077498484NPk4g_JPEG/%BF%D5%B0%A5%BA%F1_%BD%D2%B1%B9%BC%F6.jpg
+18,분보남보,12000,맛있는 분보남보,https://ldb-phinf.pstatic.net/20231017_162/16975203720304eJBO_JPEG/%BA%D0%BA%B8%B3%B2%BA%B8.jpg
+18,쉬림프라이스롤,7000,맛있는 쉬림프라이스롤,https://ldb-phinf.pstatic.net/20220206_99/1644077565489bEdL5_JPEG/%BD%AC%B8%B2%C7%C1%B6%F3%C0%CC%BD%BA%B7%D1.jpg
+18,넴 3pcs,3000,맛있는 넴,https://ldb-phinf.pstatic.net/20220206_132/1644077597194TpqwP_JPEG/%B3%DB3pcs.jpg
+18,대파직화쌀국수,10500,진한 육수와 신선한 허브가 어우러진 쌀국수,https://ldb-phinf.pstatic.net/20250124_110/1737687073087bpP03_PNG/KakaoTalk_20241115_124507393_05.png
+18,직화쌀국수,11500,진한 육수와 신선한 허브가 어우러진 쌀국수,https://ldb-phinf.pstatic.net/20220206_275/1644077478362LvD5g_JPEG/%C1%F7%C8%AD_%BD%D2%B1%B9%BC%F6.jpg
+18,차돌양지숙주쌀국수,11000,진한 육수와 신선한 허브가 어우러진 쌀국수,https://ldb-phinf.pstatic.net/20250124_274/1737687111853YldEA_PNG/%C2%F7%B5%B9%BE%E7%C1%F6_%B4%AA%B1%E2.png
+18,1인분짜,13000,상큼달콤한 소스가 매력적인 베트남식 분짜,https://ldb-phinf.pstatic.net/20250124_57/1737687144670kQo8d_PNG/KakaoTalk_20241115_124507393_02.png
+18,매콤 직화 쌀국수,12500,진한 육수와 신선한 허브가 어우러진 쌀국수,https://ldb-phinf.pstatic.net/20230817_97/1692264188611WnGGb_JPEG/%B8%C5%C4%DE%C1%F7%C8%AD%BD%D2%B1%B9%BC%F6.jpg
+18,매콤 고기듬뿍 쌀국수,14000,진한 육수와 신선한 허브가 어우러진 쌀국수,https://ldb-phinf.pstatic.net/20230817_145/16922642144699hdPT_JPEG/%B8%C5%C4%DE%B0%ED%B1%E2%B5%EB%BB%D2%BD%D2%B1%B9%BC%F6.jpg
+18,매콤 왕갈비 쌀국수,16000,진한 육수와 신선한 허브가 어우러진 쌀국수,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230817_290%2F1692264242107fh2O0_JPEG%2F%25B8%25C5%25C4%25DE%25BF%25D5%25B0%25A5%25BA%25F1%25BD%25D2%25B1%25B9%25BC%25F6_%25BC%25F6%25C1%25A4.jpg
+19,차돌박이 쌀국수,9500,진한 육수와 신선한 허브가 어우러진 쌀국수,https://ldb-phinf.pstatic.net/20240309_54/17099362196672WTz9_JPEG/IMG_0075.jpeg
+19,양지 쌀국수,11000,진한 육수와 신선한 허브가 어우러진 쌀국수,https://ldb-phinf.pstatic.net/20240309_300/1709936251565QjrLn_JPEG/IMG_0076.jpeg
+19,차돌양지 쌀국수,11500,진한 육수와 신선한 허브가 어우러진 쌀국수,https://ldb-phinf.pstatic.net/20240309_92/17099363190190Enl7_JPEG/IMG_0077.jpeg
+19,힘줄 쌀국수,13000,진한 육수와 신선한 허브가 어우러진 쌀국수,https://ldb-phinf.pstatic.net/20240309_259/1709936664576rMKQi_JPEG/IMG_0079.jpeg
+19,고구마짜조,3000,바삭하게 튀겨낸 만두 요리,NULL
+19,가리비짜조,3000,바삭하게 튀겨낸 만두 요리,NULL
+19,웨딩쇼마이,4000,맛있는 웨딩쇼마이,NULL
+19,버팔로윙,3000,맛있는 버팔로윙,NULL
+19,감자말이새우,3000,탱글한 새우의 풍미가 살아있는 요리,NULL
+19,모듬전식,5000,맛있는 모듬전식,NULL
+20,돼지고기 버섯볶음,16000,"큼직하게 썰은 돼지 목심과 버섯, 야채들을 특제소스와 함께 볶은 요리 술안주나 여러명의 사이드 디쉬로 좋습니다",http://imagefarm.baemin.com/smartmenuimage/upload/image/2022/6/17/Ob0GGcHLu_GW609gVqrRtYjpJjXD6HJZ7BA6u-vRtabUtkeGv5RpKepps45m1Nx8Loua1OkSv_tQaq8EFzX1Pg==.jpg
+20,반미 샌드위치,7500,"겉은 바삭, 속은 부드러운 쌀 바게트 안에 야채와 피클, 양념에 재운 돼지고기가 듬뿍 들어간 베트남식 샌드위치",http://imagefarm.baemin.com/smartmenuimage/upload/image/2022/6/17/dC6Xz1-tBcqCMxfJqCmiY_s2zqsqDdFfiU-zdHQWyOQkxs8Pfgvfy1f0gqhiXFTO3qg8n7kjpFLDkER77LwnwQ==.jpg
+20,푸팟퐁커리,19000,"바게트빵으로 변경 시 +1,000원 밥(안남미) 추가시 +1,000원 바게트빵 추가시 +2,000",http://imagefarm.baemin.com/smartmenuimage/upload/image/2022/7/4/yuC7P3S75wm_hYRiBWiZEZv8YJc1tmQeYXgufmk3oiReb6UB9_VlNEvvnA5zI9ScHMCuU6xSdigcklEsBIvfgg==.jpg
+20,나시고랭,8900,돼지고기와 각종 신선한 야채가 들어간 인도네시아식 볶음밥 CNN 선정 세계에서 가장 맛있는음식 2위,http://imagefarm.baemin.com/smartmenuimage/upload/image/2022/7/4/65pb25iPDrt1mtbmT5G57y-wOdmrYIvxydOwwqxLFhHPdO_xi-AwV2J73zF0o8Vqhe7m30Feq9Myd-wVTejrTg==.jpg
+20,양지쌀국수,8900,양지를 우려내어 시원하고 뜨끈한 태국식 국물 쌀국수,http://imagefarm.baemin.com/smartmenuimage/upload/image/2022/6/17/BWC-HfZKVUftgdjBUQC0QiqrKMu5__-SS0M2nKzCFOmKOCDWgxPYNPv5VsSlsGh49Pge_orr_ew0w-99Voxmog==.jpg
+20,팟타이,8900,"돼지고기와 새우가 들어간 새콤, 달콤, 매콤한 맛이 어우러지는 태국식 볶음 쌀국수 CNN 선정 세계에서 가장 맛있는 음식 5위",http://imagefarm.baemin.com/smartmenuimage/upload/image/2022/6/17/VOu30LTOaQ3APVur96s74EdKsCxLnVHWlmN9ts5gYDI3YBxzirgxgLAVA6Bgmpp8i9Vd9pN2WxB6zQqYgBb_zg==.jpg
+20,팟씨유,8900,넓은 쌀국수면에 간장소스를 베이스로 한 짭조름한맛의 볶음 쌀국수,NULL
+20,카오팟,8900,"돼지고기와 야채가 어우러진 달달, 담백한 파인애플 볶음밥 나시고랭보다 덜 자극적인 맛",NULL
+21,떡볶이,4500,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,https://ldb-phinf.pstatic.net/20220510_61/1652186651606wGfrG_JPEG/20220428-%BC%BC%BA%EC%B5%B7%B1%EE%BD%BA_%B6%B1%BA%BA%C0%CC.jpg
+21,라볶이,5000,떡볶이와 라면의 조화가 돋보이는 라볶이,https://ldb-phinf.pstatic.net/20220510_74/1652186684588GNlwe_JPEG/20220428-%BC%BC%BA%EC%B5%B7%B1%EE%BD%BA-%B6%F3%BA%BA%C0%CC.jpg
+21,냉면,7000,풍부한 양념이 입안을 감싸는 메뉴입니다,https://ldb-phinf.pstatic.net/20220510_241/165218661749763GqD_JPEG/20220428-%BC%BC%BA%EC%B5%B7%B1%EE%BD%BA_%B3%C3%B8%E9.jpg
+21,원조 김밥,3000,신선한 재료가 가득한 김밥,NULL
+21,참치 김밥,4000,신선한 재료가 가득한 김밥,NULL
+21,돈가스,7000,바쁜 일상 속 맛있는 휴식을 선사합니다,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDA0MjBfNSAg%2FMDAxNzEzNTY4MDQyODYx.GTnoohNMqTRlERst0kX9wjUI0COfua9BjogxDVhhxQ8g.cL4AUeJEpFvZ-7EWLOLAlgZ2Y-ecpdJ3dw8tCc-i-Kcg.JPEG%2F20240419_150944.jpg.jpg%3Ftype%3Dw1500_60_sharpen
+21,쫄면,7000,이 집만의 비법으로 만든 요리입니다,NULL
+21,김치찌개,7000,계속 생각나는 맛을 자랑합니다,NULL
+21,순두부찌개,7000,든든한 한 끼로 좋은 메뉴입니다,NULL
+21,오므라이스,7500,가벼운 간식으로 안성맞춤인 메뉴입니다,NULL
+21,제육덮밥,7500,풍부한 양념이 입안을 감싸는 메뉴입니다,https://ldb-phinf.pstatic.net/20220428_123/1651148886606aCg7J_JPEG/20220428-%BC%BC%BA%EC%B5%B7%B1%EE%BD%BA_%C1%A6%C0%B0%B5%A4%B9%E4.jpg
+21,돈가스 오므라이스,8500,정성이 담긴 맛을 느껴보세요,NULL
+21,뚝배기불고기,8500,담백하면서도 알찬 맛이 특징입니다,https://ldb-phinf.pstatic.net/20220428_211/1651148920815GaoGR_JPEG/20220428-%BC%BC%BA%EC%B5%B7%B1%EE%BD%BA%B6%D2%B9%E8%B1%E2%BA%D2%B0%ED%B1%E2.jpg
+22,야채떡볶이,7000,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,NULL
+22,칼국수,8000,풍부한 양념이 입안을 감싸는 메뉴입니다,NULL
+22,쫄면,8000,정성이 담긴 맛을 느껴보세요,NULL
+22,김치찌개,8000,담백하면서도 알찬 맛이 특징입니다,NULL
+22,순두부찌개,8000,바쁜 일상 속 맛있는 휴식을 선사합니다,NULL
+22,갈비탕,10000,이 집만의 비법으로 만든 요리입니다,NULL
+22,내장탕,10000,계속 생각나는 맛을 자랑합니다,NULL
+22,소세지 섞어찌개,9000,든든한 한 끼로 좋은 메뉴입니다,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNTA1MTRfMjYx%2FMDAxNzQ3MTkyNTEzMTk1.E829tdNIconsVfP0P9jfvnaUgVtZ2BI5zZIGqdi_0xgg.Un5r6HqO-RVioXFhvDUauhXsXBZd0JWRlNEbtej_Bfog.JPEG%2F20250514_113927.jpg.jpg%3Ftype%3Dw1500_60_sharpen
+22,계란찜,9000,가벼운 간식으로 안성맞춤인 메뉴입니다,https://search.pstatic.net/common/?src=http%3A%2F%2Fimage.nmv.naver.net%2Fblog_2019_04_25_2842%2F0a7bbc68-674b-11e9-a3d6-000000004708_01.jpg%3Ftype%3Dr152%23152x114%23m
+22,잔치국수,7000,풍부한 양념이 입안을 감싸는 메뉴입니다,NULL
+22,쫄볶이,8000,정성이 담긴 맛을 느껴보세요,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNTA0MjNfMTEx%2FMDAxNzQ1Mzk4MzYwNjcy.0AtYz37k9dyY3crmVaIiDbxi4F5PgCs5RkJy-HSUjzgg.fcBzSxUKlpqZGHH_XbWidoosPcHo5u29LfeQP4MXAiwg.JPEG%2F3085A06B-F9D4-437C-BA67-1BFDA539D9E4.jpeg%3Ftype%3Dw1500_60_sharpen
+22,비빔냉면,8000,담백하면서도 알찬 맛이 특징입니다,NULL
+22,열무냉면,9000,바쁜 일상 속 맛있는 휴식을 선사합니다,NULL
+22,열무국수,9000,이 집만의 비법으로 만든 요리입니다,NULL
+22,비빔국수,8000,계속 생각나는 맛을 자랑합니다,NULL
+22,떡만두국,8000,속이 꽉 찬 만두 요리,NULL
+22,잡채덮밥,8000,가벼운 간식으로 안성맞춤인 메뉴입니다,NULL
+22,참치김치찌개,8000,풍부한 양념이 입안을 감싸는 메뉴입니다,NULL
+22,된장찌개,8000,정성이 담긴 맛을 느껴보세요,NULL
+22,비빔밥,8000,담백하면서도 알찬 맛이 특징입니다,NULL
+22,오징어덮밥,9000,바쁜 일상 속 맛있는 휴식을 선사합니다,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMzA2MDFfMjA4%2FMDAxNjg1NTk1NTAyODY5.W86SHiCbjlIWjoTu4qFA3xhTy3Nk0xT0GQiZcU2VRUIg.LvawpQKWoonp3P7HzaChh96X25sDcCs3cLPVSMAsjg8g.JPEG%2F20230531_171116.jpg%3Ftype%3Dw1500_60_sharpen
+22,제육덮밥,8000,이 집만의 비법으로 만든 요리입니다,NULL
+22,육개장,8000,계속 생각나는 맛을 자랑합니다,NULL
+22,소고기송이덮밥,9000,든든한 한 끼로 좋은 메뉴입니다,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDEwMDZfMTUw%2FMDAxNzI4MjEyODczMDE5.2iNGF87tdiAkVsOyR7DK657GGDXQiWG0KYyoRTxfQbwg.-5HHx9Yh5Xv9pjMgIl3ieNeoUmqwj7ho9iRUGKa72JYg.JPEG%2F1000057590.jpg.jpg%3Ftype%3Dw1500_60_sharpen
+23,떡2인분,15000,풍부한 양념이 입안을 감싸는 메뉴입니다,NULL
+23,라면+오뎅+계란2+ 만두,2000,속이 꽉 찬 만두 요리,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNTAzMjJfMTEz%2FMDAxNzQyNTc1MDc4MzY0.4MrIolAix301F3F9wh7-zfc9oVkC8lcNQNAdFby3m3og.8hBWFd5__up6RMU9SRjtjTB8kgpBdfgrgJtXCyC2cQ8g.JPEG%2FE76AC1CF-340D-4E9C-883C-8F599574605C.jpeg%3Ftype%3Dw1500_60_sharpen
+23,쫄면+오뎅+계란2+만두,2000,속이 꽉 찬 만두 요리,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNTAzMjJfMTEz%2FMDAxNzQyNTc1MDc4MzY0.4MrIolAix301F3F9wh7-zfc9oVkC8lcNQNAdFby3m3og.8hBWFd5__up6RMU9SRjtjTB8kgpBdfgrgJtXCyC2cQ8g.JPEG%2FE76AC1CF-340D-4E9C-883C-8F599574605C.jpeg%3Ftype%3Dw1500_60_sharpen
+23,쫄면+라면+오뎅+계란2+만두2,17000,속이 꽉 찬 만두 요리,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNTAzMjJfMTEz%2FMDAxNzQyNTc1MDc4MzY0.4MrIolAix301F3F9wh7-zfc9oVkC8lcNQNAdFby3m3og.8hBWFd5__up6RMU9SRjtjTB8kgpBdfgrgJtXCyC2cQ8g.JPEG%2FE76AC1CF-340D-4E9C-883C-8F599574605C.jpeg%3Ftype%3Dw1500_60_sharpen
+23,떡3인분,19000,이 집만의 비법으로 만든 요리입니다,NULL
+23,라면+오뎅+계란3+ 만두,3000,속이 꽉 찬 만두 요리,NULL
+23,쫄면+오뎅+계란3+만두,3000,속이 꽉 찬 만두 요리,NULL
+23,쫄면+라면+오뎅+계란3+만두3,20000,속이 꽉 찬 만두 요리,NULL
+23,떡4인분,24000,풍부한 양념이 입안을 감싸는 메뉴입니다,NULL
+23,쫄면1+라면1+오뎅+계란4+만두,4000,속이 꽉 찬 만두 요리,NULL
+23,쫄면11+라면2+오뎅+계란4+만두4,25000,속이 꽉 찬 만두 요리,NULL
+24,친구세트,12000,떡볶이+튀김+순대,https://ldb-phinf.pstatic.net/20220209_210/1644366567782E6oYO_JPEG/IMG_9843.jpg
+24,패밀리세트,18000,떡볶이2인분+튀김+순대+어묵,https://ldb-phinf.pstatic.net/20220209_291/164436663873503GBV_JPEG/IMG_9839.jpg
+24,아찌떡볶이,4000,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,https://ldb-phinf.pstatic.net/20200523_165/1590234944142t9Fv4_JPEG/VBcd9owuN8aoTFNxUtAFHUiC.jpeg.jpg
+24,찹쌀순대,4000,쫄깃한 순대의 풍미를 느낄 수 있는 메뉴,https://ldb-phinf.pstatic.net/20220209_193/1644366689032nIav3_JPEG/IMG_9840.jpg
+24,수제튀김,4000,갓 튀겨 바삭한 식감이 매력적인 튀김,https://ldb-phinf.pstatic.net/20220209_170/1644366713255MjvW9_JPEG/IMG_9842.jpg
+24,부산어묵,2000,든든한 한 끼로 좋은 메뉴입니다,https://ldb-phinf.pstatic.net/20220209_231/1644366727155EmUqp_JPEG/IMG_9841.jpg
+25,타코야끼 8알,4000,담백하면서도 알찬 맛이 특징입니다,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDA1MDRfMjIy%2FMDAxNzE0ODI0MDAzMjg4.jZB-hQjVPNj8MMwKftatZ905rac66ESQThChfsRSTdAg.GgnP80p3gVPgwOA94ai2lPuY_-Rgu_KKHFbG4qJQ9Ykg.JPEG%2FScreenshot_20240504_203611_Instagram.jpg.jpg%3Ftype%3Dw1500_60_sharpen
+25,타코야끼 14알,6500,바쁜 일상 속 맛있는 휴식을 선사합니다,NULL
+25,타코야끼 20알,9000,이 집만의 비법으로 만든 요리입니다,NULL
+25,타코야끼 매운맛 8알,4000,계속 생각나는 맛을 자랑합니다,NULL
+25,타코야끼 매운맛 14알,6500,든든한 한 끼로 좋은 메뉴입니다,NULL
+25,타코야끼 매운맛 20알,9000,가벼운 간식으로 안성맞춤인 메뉴입니다,NULL
+25,타코야끼 청양마요맛 8알,5000,풍부한 양념이 입안을 감싸는 메뉴입니다,NULL
+25,타코야끼 청양마요맛 14알,7500,정성이 담긴 맛을 느껴보세요,NULL
+25,타코야끼 청양마요맛 20알,10000,담백하면서도 알찬 맛이 특징입니다,NULL
+25,타코야끼 치즈맛 8알,5000,바쁜 일상 속 맛있는 휴식을 선사합니다,NULL
+25,타코야끼 치즈맛 14알,7500,이 집만의 비법으로 만든 요리입니다,NULL
+25,타코야끼 치즈맛 20알,10000,계속 생각나는 맛을 자랑합니다,NULL
+25,치즈 십원빵,2000,든든한 한 끼로 좋은 메뉴입니다,NULL
+25,치즈슈 십원빵,2000,가벼운 간식으로 안성맞춤인 메뉴입니다,NULL
+25,치즈호떡 십원빵,2000,풍부한 양념이 입안을 감싸는 메뉴입니다,NULL
+25,치즈팥 십원빵,2000,정성이 담긴 맛을 느껴보세요,NULL
+25,크림치즈 십원빵,2000,담백하면서도 알찬 맛이 특징입니다,NULL
+25,떡볶이 1인분,4000,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNTAyMjNfMTY0%2FMDAxNzQwMjg4Mzg4MDM5.zfZPkzcyloqSbzt57eHH3Sok0JGk2qZ1QTB7cfR70jUg.XOL_IK-aBPxxRnF6539Q2SyaL3gejXwVlk8CE2ileC0g.JPEG%2F20250210_203840.jpg.jpg%3Ftype%3Dw1500_60_sharpen
+25,모듬튀김1인분,4000,갓 튀겨 바삭한 식감이 매력적인 튀김,NULL
+25,잡채전병3개,3000,계속 생각나는 맛을 자랑합니다,NULL
+25,치즈볼 4개,3500,든든한 한 끼로 좋은 메뉴입니다,NULL
+25,컵빙수,4000,가벼운 간식으로 안성맞춤인 메뉴입니다,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDA1MjdfMjc3%2FMDAxNzE2NzkxNDkxMTQ0.fyYTrzFTbmny10mMkUkzgCFlU5mDzmGaBF_Xs835fcsg.N-MUc293JU9kT-rHFsJfwACvUuseJ0lKCTI3d3VkYHEg.JPEG%2FScreenshot_20240521_011720_Instagram.jpg.jpg%3Ftype%3Dw1500_60_sharpen
+25,옛날 팥빙수,7000,풍부한 팥이이 입안을 감싸는 메뉴입니다,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDA1MjdfNjMg%2FMDAxNzE2NzkxNDg5NTE4.lxauBowxTryUsb7OaiMVcg9xe5eKBKRomNMfgKuXl_8g.OF9iPIlJYDSyWrVneUlBBtwN58jMqwpGCcy2Osic4CMg.JPEG%2FScreenshot_20240521_011434_Instagram.jpg.jpg%3Ftype%3Dw1500_60_sharpen
+25,찰옥수수,3000,정성이 담긴 맛을 느껴보세요,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDA1MDRfOTAg%2FMDAxNzE0ODI0MDAzNTkx.lw4yhXx6ZdBdPApnepdZK9Ul9ytVrx2VXZ_cqSRy_lMg.mpeYyvWi52D4VX-CY7giFNFbhtAL27aOphGsD4ttRs0g.JPEG%2FScreenshot_20240504_203918_Instagram.jpg.jpg%3Ftype%3Dw1500_60_sharpen
+26,"스페셜세트(떡볶이, 만두, 계란, 순대, 튀김, 김밥3, 어묵2)",13000,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,NULL
+26,"한상세트(떡볶이,만두,계란,순대,튀김,김밥3,어묵2)",10000,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,NULL
+26,"뉴욕세트(떡볶이,야끼만두,계란)",4000,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,NULL
+26,뉴욕떡볶이,3500,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDA3MjlfMzYg%2FMDAxNzIyMTg5MDU1Mjcw.SdExyCvAVzCY5Z0b0hlEK7NUW1PezNkuwCqKvVIaitog.sy_BKtAlSIT8VIQoVXfCF7thH8SN-30AS5HqTkfWYdsg.JPEG%2F20240728_162719.jpg.jpg%3Ftype%3Dw1500_60_sharpen
+26,카레떡볶이,3500,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,NULL
+26,찹쌀순대,4000,쫄깃한 순대의 풍미를 느낄 수 있는 메뉴,NULL
+26,내장모듬,6000,정성이 담긴 맛을 느껴보세요,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMzA5MjJfNTEg%2FMDAxNjk1Mzg2MDc4NDY5.zy4zzBPMnpZ0TBRy6C_ZnOP60gdDGW5vqysfUjIaRZYg.DsZQN3oLDMxwgeYfoHCRAsAgP4ELI5OQCBCkrPFP75kg.JPEG%2F20230922_212842.jpg%3Ftype%3Dw1500_60_sharpen
+26,수제튀김5개,3500,갓 튀겨 바삭한 식감이 매력적인 튀김,NULL
+26,치즈왕김말이,4500,바쁜 일상 속 맛있는 휴식을 선사합니다,NULL
+26,마약김밥 6개,2500,신선한 재료가 가득한 김밥,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMzA5MThfMTYy%2FMDAxNjk1MDQ1OTE2Mjkz.gqXpZGnMv5ADfkw1XJ8tmmyC3UWdz7Z9CVocbWFJxY8g.2LbiWuRRmo1_DWQ4OEbp3jBl7M6Rs38pyS1o1Is8Up0g.JPEG%2F356E3686-F108-425E-9805-4C5B3164DBBA.jpeg%3Ftype%3Dw1500_60_sharpen
+26,부산어묵 4개,3000,계속 생각나는 맛을 자랑합니다,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMzA1MDFfMTU2%2FMDAxNjgyOTQxNzQ1OTg3.GsaFMFV_Px4XBQi2fIfVy1U56vH9PV33TDtUoAWOAn4g.Slckj6EckOGanz3VTbSseNkxQK4TvtoWMmN97BIJhEYg.JPEG%2F29706F20-BC8F-4D4D-9A9F-321FE2C0CBDB.jpeg%3Ftype%3Dw1500_60_sharpen
+27,떡볶이,3000,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMzExMjBfMTQ1%2FMDAxNzAwNDkxMTM4MzY0.gYDHxomce7VxhnnGoYbn4Q_a8Xydx7DjAhqXNniphLkg.7Efvr6geyWk06_m1f4X3Imf-ob4eFrvbAFGWxZU79DEg.JPEG%2F20231116_210237.jpg%3Ftype%3Dw1500_60_sharpen
+27,튀김,2000,갓 튀겨 바삭한 식감이 매력적인 튀김,NULL
+27,순대,3000,쫄깃한 순대의 풍미를 느낄 수 있는 메뉴,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDExMDNfMjU3%2FMDAxNzMwNjQzOTc4OTAz.B_XDxylUJ1dgeN7I8sVa7EHigOhtWT6W3kkDo93wBJsg.Yv7lGrnMQu8NqQaN2DMpTyW051tdFG2AoU7IrKGC0YIg.JPEG%2F6EF227AA-F4DC-42D6-98B9-22E2947E04AB.jpeg%3Ftype%3Dw1500_60_sharpen
+27,오뎅 2.0(1개 700원),NULL,따끈한 국물과 함께 즐기는 오뎅,https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMzA2MjRfMTEz%2FMDAxNjg3NTM3NTA0NTU5.IhobMc_ARVRUcMtiV2LlOWZqpHlQds7Hoc0h577gCgcg.UtqeAPnn-rz_qafwXrQ6J1JVl-PJYdi-4reJEO4zCCgg.JPEG%2F2908CBBB-14DB-463A-B6B6-9804755C9D6A.jpeg%3Ftype%3Dw1500_60_sharpen
+27,김밥,2000,신선한 재료가 가득한 김밥,NULL
+27,계란 2개,1000,정성이 담긴 맛을 느껴보세요,NULL
+27,핫도그,2000,담백하면서도 알찬 맛이 특징입니다,NULL
+28,떡볶이,3500,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,https://ldb-phinf.pstatic.net/20210720_109/1626777087723wen3F_JPEG/zNT_757PY6fXowASeuOxz7Vw.jpg
+28,찰순대,4000,쫄깃한 순대의 풍미를 느낄 수 있는 메뉴,NULL
+28,일반김밥,3500,신선한 재료가 가득한 김밥,NULL
+28,수제 모둠튀김,4000,갓 튀겨 바삭한 식감이 매력적인 튀김,https://ldb-phinf.pstatic.net/20210720_82/1626777059325HSJRH_JPEG/2wYZsetyRsdsOItdqZarpbeA.jpg
+28,낱개 튀김,1000,갓 튀겨 바삭한 식감이 매력적인 튀김,NULL
+28,부산 어묵 1개,1000,담백하면서도 알찬 맛이 특징입니다,https://ldb-phinf.pstatic.net/20210720_207/1626777040902SdXzT_JPEG/h76I-YceYxxdcqOgM-0iLPce.jpg
+28,일반 김밥,3500,신선한 재료가 가득한 김밥,NULL
+28,치즈김밥,4300,신선한 재료가 가득한 김밥,NULL
+28,유부김밥,4300,신선한 재료가 가득한 김밥,https://ldb-phinf.pstatic.net/20210720_81/16267769525980bTqh_JPEG/_Kp41qHhoU68m5N53z9nHkb1.jpg
+28,참치김밥,4500,신선한 재료가 가득한 김밥,https://ldb-phinf.pstatic.net/20210721_54/1626793822878iOY66_JPEG/Bch2D_7aP5MkyQP2ahe1i_J8.jpg
+28,돈까스김밥,4500,신선한 재료가 가득한 김밥,NULL
+29,정통 퓨전 라볶이,6500,Sinse 1997 정통메뉴 12가지 천연과일 소스로 만든 새콤달콤한 맛에 7가지 골라먹는 재미가 더해진 디델리를 지금까지 있게한 Best of Best 메뉴,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/7/2/dGNIorJ_f7rA8q29XA41DN9Y9fBSffnu4xsxl_VTMHgV280TNdnUFDLbiMKNI1Tj.jpg
+29,매콤비프 라볶이,7000,어디서도 맛보지 못한 차원이 다른 매운맛 깊이 있는 소고기 육수로 맛을 낸 디델리의 또 하나의 역작,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/7/2/dGNIorJ_f7rA8q29XA41DFRjsSPfFdg7MdAEYKgn4tEGq0V1jp2s7INmsgQa3OwD.jpg
+29,국물 떡볶이,5500,밀떡과 어묵으로 만든 국물이 넉넉한 고추장 소스맛,http://imagefarm.baemin.com/smartmenuimage/upload/image/2022/11/3/ZYWjiPSckqx4K33rFmLeen-5BFjBJx1i67-NXYeN9X4=.jpg
+29,크림 떡볶이,6000,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,NULL
+29,크림 라볶이,7000,크림소스와 떡볶이의 환상적인 만남,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/7/2/dGNIorJ_f7rA8q29XA41DImF4hDTcGt5Jltt125u65ABafbXg_71bp-E9N4H8YXt.jpg
+29,정통 퓨전 라볶이 그라탕,8500,정통 퓨전 라볶이에 모짜렐라 치즈를 듬뿍 올려 최고의 맛을 자랑합니,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/7/2/dGNIorJ_f7rA8q29XA41DBCPUB-WXx6J5IzKJF9PWVfOOe3rRldZr78Hiv-4J5Kt.jpg
+29,크림 라볶이 그라탕,9000,떡볶이와 라면의 조화가 돋보이는 라볶이,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/7/2/dGNIorJ_f7rA8q29XA41DK1ZBbvk59ZEGRmsaz7tkKsZ7Uh_4Quuk5ynniTUDTS0.jpg
+29,매콤 비프라볶이 그라탕,9000,매콤비프라볶이의 모짜렐라 치즈를 가득~~ 올려 오븐에 구워서 최고의 맛을 선사합니다.,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/7/2/dGNIorJ_f7rA8q29XA41DGC0GxpDeneFMB_GqlG9poZX4J4mS6Zr0TvH6w52yt94.jpg
+29,라이스  그라탕,7000,고슬한 새우밤에 고소한 모짜렐라치즈 풍미작렬,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/7/2/dGNIorJ_f7rA8q29XA41DHv5SbI5ccpN1dnn81jDE-WXWiKurAQ59nmkkgzdNvs7.jpg
+29,디델리 김밥,3500,신선한 재료가 가득한 김밥,NULL
+29,참치김밥,4500,신선한 재료가 가득한 김밥,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/7/2/dGNIorJ_f7rA8q29XA41DNxdtijLtnEgU0_DUGOCOX4XYmDe7Tq2mo516g5On990.jpg
+29,치즈김밥,4500,신선한 재료가 가득한 김밥,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/7/2/dGNIorJ_f7rA8q29XA41DGx_Zx9j9qXStCGnx1cYB4abzJAoMeA3vR6SrENgEw2Y.jpg
+29,김치김밥,4500,신선한 재료가 가득한 김밥,NULL
+29,참치주먹밥,3000,바쁜 일상 속 맛있는 휴식을 선사합니다,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/7/9/6TrhCq96TPGbDQ-vV8Q5LVw9Ud6EqkkIJOD1ysKjpXtMTY2__hfWrBmSyh9o1foh.jpg
+29,김치주먹밥,3000,이 집만의 비법으로 만든 요리입니다,NULL
+29,치즈주먹밥,3000,계속 생각나는 맛을 자랑합니다,NULL
+29,참치+치즈주먹밥,3500,든든한 한 끼로 좋은 메뉴입니다,NULL
+29,참치+김치주먹밥,3500,가벼운 간식으로 안성맞춤인 메뉴입니다,NULL
+29,쫄면,5000,아삭아삭 씹히는 싱싱한 야채와 매콤 새콤 달콤한 소스로 만든 쫄깃한 면발의 최강쫄면,http://imagefarm.baemin.com/smartmenuimage/upload/image/2020/7/9/6TrhCq96TPGbDQ-vV8Q5Lf_1lnWzEBozzNDS0MkB7LsBOLa-Xg65EXxMv7rcUw8A.jpg
+29,옛날튀김만두(2개),1500,갓 튀겨 바삭한 식감이 매력적인 튀김,NULL
+29,갈비만두(5개),4000,속이 꽉 찬 만두 요리,NULL
+30,떡튀섞어서,5500,가벼운 간식으로 안성맞춤인 메뉴입니다,NULL
+30,떡순섞어서,6000,풍부한 양념이 입안을 감싸는 메뉴입니다,NULL
+30,둘둘섞어서(떡볶이+순대+튀김),9000,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,NULL
+30,다함께섞어서(떡볶이+순대+튀김),12000,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,NULL
+30,떡볶이,4000,매콤달콤한 소스와 쫄깃한 떡이 일품인 떡볶이,https://ldb-phinf.pstatic.net/20191216_21/1576455891641Qn2PP_JPEG/VkswCxl_E_teY-B0ohjx7AWp.jpg
+30,찰순대,4500,쫄깃한 순대의 풍미를 느낄 수 있는 메뉴,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160930_36%2F147521482379480bv4_JPEG%2F176880548360806_2.jpeg
+30,튀김(5개),4000,갓 튀겨 바삭한 식감이 매력적인 튀김,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160930_184%2F1475214823902mlrml_JPEG%2F176880548360806_3.jpeg
+30,부산어묵(3꼬치),2500,든든한 한 끼로 좋은 메뉴입니다,NULL
+30,빨간어묵(3꼬치),3000,가벼운 간식으로 안성맞춤인 메뉴입니다,https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200821_62%2F1597987298912NE2RI_JPEG%2FrH0dmNpbgdREdxtJ703K-BZ7.jpg
+30,라면,4000,풍부한 양념이 입안을 감싸는 메뉴입니다,NULL
+30,주먹밥(3알),3000,정성이 담긴 맛을 느껴보세요,NULL
+30,꼬마김밥(2개),1000,신선한 재료가 가득한 김밥,NULL

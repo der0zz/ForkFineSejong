@@ -8,7 +8,7 @@ CREATE TABLE restaurant (
   address          VARCHAR(255)       NULL,
   phone            VARCHAR(30)        NULL,
   open_time        VARCHAR(100)       NULL,
-  main_image_url   VARCHAR(255)       NULL,
+  main_image_url   VARCHAR(512)       NULL,
   PRIMARY KEY (id)
 ) ;
 
@@ -19,14 +19,12 @@ CREATE TABLE menu (
   name             VARCHAR(100)       NOT NULL,
   price            INT                NULL,
   description      TEXT               NULL,
-  image_url        VARCHAR(255)       NULL,
+  image_url        VARCHAR(512)       NULL,
   PRIMARY KEY (id),
-  KEY idx_menu_restaurant (restaurant_id),
-  CONSTRAINT fk_menu_restaurant
+  CONSTRAINT menu_restaurant
     FOREIGN KEY (restaurant_id)
     REFERENCES restaurant(id)
     ON DELETE CASCADE
-    ON UPDATE CASCADE
 );
 
 CREATE TABLE review (
@@ -45,7 +43,7 @@ CREATE TABLE review (
 );
 
 -- Cafes: Insert into restaurant
-INSERT INTO restaurant (name, category, description, address, phone, open_time, main_image_url)
+INSERT INTO restaurant (id, name, category, description, address, phone, open_time, main_image_url)
 VALUES
 ('연필','카페','연필 緣苾\n인연 연, 향기로울 필\n\n인연이 피어 향기로운 공간입니다.\n다양한 맛있는 디저트와 깊은 향의 커피','서울 광진구 면목로 12 1층 102호 서울 광진구 군자동 49-17','0502-5552-2000','화, 수 11:00~20:00','https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230212_231%2F1676154913718sctjy_JPEG%2FScreenshot_20230212_073124_Instagram.jpg'),
 ('보난자커피 군자점','카페','넓은 공간에서 즐기는 맛있는 커피 디저트','서울특별시 광진구 능동로 239-1 B동 1층 보난자커피 지번서울특별시 광진구 군자동 270','070-4110-3113','09:00 ~ 12:00','https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220518_58%2F1652861247773Dike6_JPEG%2F_MG_4177.JPG'),
@@ -116,6 +114,9 @@ INSERT INTO restaurant (name, category, description, address, phone, open_time, 
 일 정기휴', 'https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181005_147%2F1538705796294ovxSk_JPEG%2F6ywXI_z6nsOglBG-Oczw6Gzf.jpg'),
 ('꼽사리떡볶이', '분식', '맛있는 순대 냄새와 풍성한 양의 만남', '서울 광진구 아차산로29길 71 영일빌딩 1층
 서울 광진구 화양동 34-81', '02-463-2929', '15:00~23:00', 'https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200821_62%2F1597987261148fj9oo_JPEG%2FOGK50_XNsmv4Gxyl70DH38re.jpg');
+
+INSERT INTO restaurant (name, category, description, address, phone, open_time, main_image_url) VALUES
+()
 
 -- Cafes: Insert into menu
 INSERT INTO menu (restaurant_id, name, price, description, image_url)
