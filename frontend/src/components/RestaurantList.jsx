@@ -1,5 +1,6 @@
 import "./RestaurantList.css";
 import RestaurantCard from "./RestaurantCard";
+import { useMemo } from "react";
 
 // 음식점 리스트를 카테고리 기준으로 필터링해서 보여주는 컴포넌트
 const RestaurantList = ({ restaurants = [], selectedCategory = "전체" }) => {
@@ -7,6 +8,15 @@ const RestaurantList = ({ restaurants = [], selectedCategory = "전체" }) => {
   const filtered = restaurants.filter(
     (r) => selectedCategory === "전체" || r.category === selectedCategory
   );
+
+  const shuffled = useMemo(() => {
+    const copy = [...filtered];
+    for (let i = copy.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [copy[i], copy[j]] = [copy[j], copy[i]];
+    }
+    return copy;
+  }, [filtered]);
 
   // 필터링 결과가 없을 경우 메시지 표시
   if (filtered.length === 0) {
@@ -21,7 +31,7 @@ const RestaurantList = ({ restaurants = [], selectedCategory = "전체" }) => {
   return (
     <section className="grid-section">
       <div className="card-grid">
-        {filtered.map((restaurant) => (
+        {shuffled.map((restaurant) => (
           <RestaurantCard key={restaurant.id} restaurant={restaurant} />
         ))}
       </div>

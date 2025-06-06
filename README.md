@@ -61,12 +61,11 @@ ForkFineSejong/
 
 아래 단계만 따라 하면 백엔드 서버를 바로 실행할 수 있습니다. 모든 명령은 프로젝트 루트 폴더의 `backend/FFS` 디렉터리에서 실행하세요.
 
-  ### 백엔드 서버 배포 (AWS EC2)
+### 백엔드 서버 배포 (AWS EC2)
 
-  본 프로젝트는 `AWS EC2`에서 Spring Boot 백엔드를 원격 서버로 배포했습니다.
+본 프로젝트는 `AWS EC2`에서 Spring Boot 백엔드를 원격 서버로 배포했습니다.
 
 ---
-
 
 ### 1. EC2 인스턴스 생성
 
@@ -75,7 +74,9 @@ ForkFineSejong/
   🔗 [AWS EC2 시작하기 가이드](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
 
 ### 2. 서버 내 환경 설정 및 실행
+
 - Java, MariaDB 설치(jdk 17 권장)
+
   ```bash
   sudo apt update
   sudo apt install openjdk-17-jdk
@@ -83,6 +84,7 @@ ForkFineSejong/
   ```
 
 - 권한 설정 및 데이터베이스 준비
+
   ```bash
   sudo mariadb
 
@@ -94,6 +96,7 @@ ForkFineSejong/
   ```
 
 - 스프링 프로젝트 clone 및 프로젝트 빌드
+
   ```bash
   git clone https://github.com/사용자명/ForkFineSejong.git
   cd ForkFineSejong/Spring/FFS
@@ -178,3 +181,32 @@ npm run dev
 | `KakaoMapSingle`   | 단일 음식점의 위치를 지도에 표시                  |
 
 - 각 컴포넌트에 대응하는 .css 파일도 함께 존재하여, 모듈 단위로 UI 및 로직을 분리한 구조
+
+## 배포 관련 정보
+
+### 배포 정보
+
+- 배포 플랫폼: Vercel
+- 배포 주소: https://fork-find-sejong.vercel.app
+- 프로젝트 루트: frontend/
+
+### 라우팅 및 프록시 설정 (vercel.json)
+
+```
+{
+"rewrites": [
+  {
+    "source": "/api/:path*",
+    "destination": "http://3.35.234.131:8080/:path*"
+  },
+  {
+    "source": "/(.*)",
+    "destination": "/index.html"
+  }
+]
+}
+```
+
+- /api/\* 요청은 벤엔드 서버로 프록시
+- 나머지 요청은 index.html로 React Router가 처리
+- master에 병합시 자동으로 배포되게 설정
