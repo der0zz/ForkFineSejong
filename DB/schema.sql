@@ -14,7 +14,6 @@
 --   is_new BOOLEAN DEFAULT FALSE                          -- 신규 개장 음식점 여부
 -- );
 
-/*
 CREATE TABLE IF NOT EXISTS restaurant (
   id INT PRIMARY KEY AUTO_INCREMENT,
   name VARCHAR(100) NOT NULL,
@@ -30,11 +29,17 @@ CREATE TABLE IF NOT EXISTS restaurant (
   is_new BOOLEAN DEFAULT FALSE
 );
 
-*/
-
 -- menu
--- restaurant_id는 restaurant 테이블과의 외래키 관계
-/*
+-- CREATE TABLE IF NOT EXISTS menu (
+--   id INT PRIMARY KEY AUTO_INCREMENT,
+--   restaurant_id INT NOT NULL,
+--   name VARCHAR(100),
+--   price INT,
+--   description TEXT,
+--   image_url VARCHAR(255),
+--   FOREIGN KEY (restaurant_id) REFERENCES restaurant(id) ON DELETE CASCADE
+-- );
+
 CREATE TABLE IF NOT EXISTS menu (
   id INT PRIMARY KEY AUTO_INCREMENT,
   restaurant_id INT NOT NULL,
@@ -44,8 +49,6 @@ CREATE TABLE IF NOT EXISTS menu (
   image_url VARCHAR(255),
   FOREIGN KEY (restaurant_id) REFERENCES restaurant(id) ON DELETE CASCADE
 );
-
-*/
 
 -- review
 -- CREATE TABLE IF NOT EXISTS review (
@@ -59,7 +62,6 @@ CREATE TABLE IF NOT EXISTS menu (
 --   UNIQUE (restaurant_id, comment, created_at)      -- 동일한 날 같은 코멘트는 중복 저장 방지
 -- );
 
-/*
 CREATE TABLE IF NOT EXISTS review (
   id INT PRIMARY KEY AUTO_INCREMENT,
   restaurant_id INT NOT NULL,
@@ -69,5 +71,3 @@ CREATE TABLE IF NOT EXISTS review (
   FOREIGN KEY (restaurant_id) REFERENCES restaurant(id) ON DELETE CASCADE,
   UNIQUE (restaurant_id, comment, created_at)
 );
-
-*/
