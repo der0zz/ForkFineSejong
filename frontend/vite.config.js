@@ -1,16 +1,20 @@
-import { defineConfig } from "vite";
+import { defineConfig, loadEnv } from "vite";
 import react from "@vitejs/plugin-react";
 
-// https://vite.dev/config/
-export default defineConfig({
-  plugins: [react()],
-  server: {
-    proxy: {
-      "/api": {
-        target: "http://3.35.234.131:8080", // 실제 스프링 서버
-        changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/api/, ""),
+export default defineConfig(({ mode }) => {
+  // mode에 따라 .env 파일 로드
+  const env = loadEnv(mode, process.cwd());
+
+  return {
+    plugins: [react()],
+    server: {
+      proxy: {
+        "/api": {
+          target: env.VITE_API_URL, // 환경변수 사용
+          changeOrigin: true,
+          rewrite: (path) => path.replace(/^\/api/, ""),
+        },
       },
     },
-  },
+  };
 });
