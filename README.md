@@ -59,11 +59,29 @@ ForkFineSejong/
 
 ## 백엔드 실행 방법
 
-아래 단계만 따라 하면 백엔드 서버를 바로 실행할 수 있습니다. 모든 명령은 프로젝트 루트 폴더의 `backend/FFS` 디렉터리에서 실행하세요.
+### 로컬 개발 환경 실행 (기본)
+
+이 프로젝트는 기본적으로 **로컬 환경에서 개발 및 테스트**할 수 있도록 구성되어 있습니다.
+
+```bash
+cd backend/FFS
+./mvnw spring-boot:run
+```
+- 위 명령어 실행 후 백엔드 서버는 http://<개인 IP 주소>:8080에서 구동됩니다.
+  (예: https://192.168.0.10:8080)
+- 프론트엔드(React)에서도 동일한 주소를 기준으로 API를 호출하도록 되어 있습니다.
+- 백엔드 서버는 터미널에서 `Ctrl + C`를 눌러 종료할 수 있습니다.
+- 만약 Permission denied 오류가 발생한 경우, 다음 명령어로 실행 권한을 부여해야 합니다.
+  
+    ```bash
+    chmod +x mvnw
+    ```
+
+---
 
 ### 백엔드 서버 배포 (AWS EC2)
 
-본 프로젝트는 `AWS EC2`에서 Spring Boot 백엔드를 원격 서버로 배포했습니다.
+프로젝트 내에서 `AWS EC2`인스턴스를 통해 원격 배포하여 외부에서도 접근 가능한 형태로 구성하였습니다.
 
 ---
 
@@ -73,7 +91,7 @@ ForkFineSejong/
 
   🔗 [AWS EC2 시작하기 가이드](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
 
-### 2. 서버 내 환경 설정 및 실행
+### 2. 서버 내 환경 설정 및 실행(인스턴스 실행 이후)
 
 - Java, MariaDB 설치(jdk 17 권장)
 
