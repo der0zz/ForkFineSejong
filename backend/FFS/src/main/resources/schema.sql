@@ -20,7 +20,10 @@
 -- Table structure for table `restaurant`
 --
 
+DROP TABLE IF EXISTS `menu`;
+DROP TABLE IF EXISTS `review`;
 DROP TABLE IF EXISTS `restaurant`;
+
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8mb4 */;
 CREATE TABLE `restaurant` (
@@ -45,7 +48,6 @@ CREATE TABLE `restaurant` (
 -- Table structure for table `menu`
 --
 
-DROP TABLE IF EXISTS `menu`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8mb4 */;
 CREATE TABLE `menu` (
@@ -65,7 +67,6 @@ CREATE TABLE `menu` (
 -- Table structure for table `review`
 --
 
-DROP TABLE IF EXISTS `review`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8mb4 */;
 CREATE TABLE `review` (
