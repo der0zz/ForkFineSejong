@@ -67,15 +67,16 @@ ForkFineSejong/
 cd backend/FFS
 ./mvnw spring-boot:run
 ```
+
 - 위 명령어 실행 후 백엔드 서버는 http://<개인 IP 주소>:8080에서 구동됩니다.
   (예: https://192.168.0.10:8080)
 - 프론트엔드(React)에서도 동일한 주소를 기준으로 API를 호출하도록 되어 있습니다.
 - 백엔드 서버는 터미널에서 `Ctrl + C`를 눌러 종료할 수 있습니다.
 - 만약 Permission denied 오류가 발생한 경우, 다음 명령어로 실행 권한을 부여해야 합니다.
-  
-    ```bash
-    chmod +x mvnw
-    ```
+
+  ```bash
+  chmod +x mvnw
+  ```
 
 ---
 
@@ -87,7 +88,7 @@ cd backend/FFS
 
 ### 1. EC2 인스턴스 생성
 
-- EC2 인스턴스 생성 및 기본 설정 방법은 아래 공식 가이드를 참고하세요.
+- EC2 인스턴스 생성 및 기본 설정 방법은 아래 공식 가이드를 참고하세요. **(Ubuntu 환경 권장)**
 
   🔗 [AWS EC2 시작하기 가이드](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
 
@@ -106,7 +107,7 @@ cd backend/FFS
   ```bash
   sudo mariadb
 
-  CREATE USER 'ffs_user'@'localhost' IDENTIFIED BY '0000';
+  CREATE USER 'ffs_user'@'localhost' IDENTIFIED BY 'PERSONAL_PASSWORD';
   GRANT ALL PRIVILEGES ON FFS.* TO 'ffs_user'@'localhost';
   FLUSH PRIVILEGES;
 
@@ -117,7 +118,7 @@ cd backend/FFS
 
   ```bash
   git clone https://github.com/사용자명/ForkFineSejong.git
-  cd ForkFineSejong/Spring/FFS
+  cd ForkFineSejong/backend/FFS
   ./mvnw clean package
   chmod +x mvnw                 # 실행 권한 부여(Permission denied 오류 시)
   ```
@@ -170,6 +171,16 @@ npm run dev
 - Vite 개발 서버가 기본적으로 `http://localhost:5173` 에서 작동합니다.
 - 백엔드 서버(`localhost:8080`)가 먼저 실행 중이어야 정상 작동합니다.
 
+- 이 프로젝트는 카카오맵 API 키가 필요합니다.
+
+1. [카카오 디벨로퍼스](https://developers.kakao.com)에서 앱을 생성합니다.
+2. JavaScript 키를 발급받으세요.
+3. 프로젝트 루트에 `.env` 파일을 만들고 아래와 같이 입력하세요.
+
+```
+VITE_KAKAO_MAP_KEY_LOCAL=당신의_카카오_JavaScript_키
+```
+
 ---
 
 ### 3. 주요 명령어 요약
@@ -205,7 +216,7 @@ npm run dev
 ### 배포 정보
 
 - 배포 플랫폼: Vercel
-- 배포 주소: https://fork-find-sejong.vercel.app
+- 배포 주소: https://fork-fine-sejong-five.vercel.app
 - 프로젝트 루트: frontend/
 
 ### 라우팅 및 프록시 설정 (vercel.json)
