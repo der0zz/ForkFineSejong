@@ -99,7 +99,7 @@ ForkFineSejong/
 
   ```bash
   git clone https://github.com/사용자명/ForkFineSejong.git
-  cd ForkFineSejong/Spring/FFS
+  cd ForkFineSejong/backend/FFS
   ./mvnw clean package
   chmod +x mvnw                 # 실행 권한 부여(Permission denied 오류 시)
   ```
